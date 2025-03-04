@@ -1,0 +1,1399 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1739578531645,61,Show List Form,200,,MainThreadGroup 1-1,text,true,,537,185,6,6,http://192.168.1.107:8080/books,55,0,34
+1739578531645,61,Show List Form,200,,MainThreadGroup 1-2,text,true,,537,185,6,6,http://192.168.1.107:8080/books,55,0,34
+1739578531737,7,Show List Form,200,,MainThreadGroup 1-3,text,true,,537,185,6,6,http://192.168.1.107:8080/books,7,0,1
+1739578531840,8,Show List Form,200,,MainThreadGroup 1-4,text,true,,537,185,7,7,http://192.168.1.107:8080/books,7,0,1
+1739578531948,10,Show List Form,200,,MainThreadGroup 1-5,text,true,,537,185,8,8,http://192.168.1.107:8080/books,9,0,1
+1739578532050,8,Show List Form,200,,MainThreadGroup 1-6,text,true,,537,185,9,9,http://192.168.1.107:8080/books,8,0,1
+1739578532113,5,Show Add Form,200,,MainThreadGroup 1-1,text,true,,842,129,10,10,http://192.168.1.107:8080/books/add,4,0,0
+1739578532111,7,Show Add Form,200,,MainThreadGroup 1-2,text,true,,842,129,10,10,http://192.168.1.107:8080/books/add,6,0,0
+1739578532146,5,Show Add Form,200,,MainThreadGroup 1-3,text,true,,842,129,10,10,http://192.168.1.107:8080/books/add,5,0,0
+1739578532163,10,Show List Form,200,,MainThreadGroup 1-7,text,true,,537,185,11,11,http://192.168.1.107:8080/books,10,0,0
+1739578532249,4,Show Add Form,200,,MainThreadGroup 1-4,text,true,,842,129,11,11,http://192.168.1.107:8080/books/add,4,0,0
+1739578532261,9,Show List Form,200,,MainThreadGroup 1-8,text,true,,537,185,11,11,http://192.168.1.107:8080/books,8,0,2
+1739578532359,4,Show Add Form,200,,MainThreadGroup 1-5,text,true,,842,129,12,12,http://192.168.1.107:8080/books/add,4,0,0
+1739578532364,7,Show List Form,200,,MainThreadGroup 1-9,text,true,,537,185,12,12,http://192.168.1.107:8080/books,7,0,0
+1739578532459,4,Show Add Form,200,,MainThreadGroup 1-6,text,true,,842,129,13,13,http://192.168.1.107:8080/books/add,4,0,0
+1739578532467,6,Show List Form,200,,MainThreadGroup 1-10,text,true,,537,185,13,13,http://192.168.1.107:8080/books,6,0,2
+1739578532528,46,Add Book POST,200,,MainThreadGroup 1-1,text,true,,1224,389,14,14,http://192.168.1.107:8080/books,33,0,0
+1739578532528,33,Add Book POST-0,302,,MainThreadGroup 1-1,,true,,186,264,14,14,http://192.168.1.107:8080/books/add,33,0,0
+1739578532561,13,Add Book POST-1,200,,MainThreadGroup 1-1,text,true,,1038,125,14,14,http://192.168.1.107:8080/books,12,0,0
+1739578532528,49,Add Book POST,200,,MainThreadGroup 1-2,text,true,,1224,389,14,14,http://192.168.1.107:8080/books,29,0,0
+1739578532528,29,Add Book POST-0,302,,MainThreadGroup 1-2,,true,,186,264,14,14,http://192.168.1.107:8080/books/add,29,0,0
+1739578532560,17,Add Book POST-1,200,,MainThreadGroup 1-2,text,true,,1038,125,14,14,http://192.168.1.107:8080/books,17,0,0
+1739578532577,10,Show Add Form,200,,MainThreadGroup 1-7,text,true,,842,129,15,15,http://192.168.1.107:8080/books/add,10,0,0
+1739578532574,18,Show List Form,200,,MainThreadGroup 1-11,text,true,,1293,185,15,15,http://192.168.1.107:8080/books,18,0,2
+1739578532552,46,Add Book POST,200,,MainThreadGroup 1-3,text,true,,1479,389,15,15,http://192.168.1.107:8080/books,35,0,0
+1739578532552,35,Add Book POST-0,302,,MainThreadGroup 1-3,,true,,186,264,15,15,http://192.168.1.107:8080/books/add,35,0,0
+1739578532588,10,Add Book POST-1,200,,MainThreadGroup 1-3,text,true,,1293,125,15,15,http://192.168.1.107:8080/books,9,0,0
+1739578532671,3,Show Add Form,200,,MainThreadGroup 1-8,text,true,,842,129,15,15,http://192.168.1.107:8080/books/add,3,0,0
+1739578532654,24,Add Book POST,200,,MainThreadGroup 1-4,text,true,,1734,389,15,15,http://192.168.1.107:8080/books,14,0,0
+1739578532654,14,Add Book POST-0,302,,MainThreadGroup 1-4,,true,,186,264,15,15,http://192.168.1.107:8080/books/add,14,0,0
+1739578532668,10,Add Book POST-1,200,,MainThreadGroup 1-4,text,true,,1548,125,15,15,http://192.168.1.107:8080/books,10,0,0
+1739578532673,6,Show List Form,200,,MainThreadGroup 1-12,text,true,,1548,185,15,15,http://192.168.1.107:8080/books,6,0,1
+1739578532772,6,Show Add Form,200,,MainThreadGroup 1-9,text,true,,842,129,16,16,http://192.168.1.107:8080/books/add,5,0,0
+1739578532775,14,Show List Form,200,,MainThreadGroup 1-13,text,true,,1803,185,17,17,http://192.168.1.107:8080/books,13,0,2
+1739578532765,27,Add Book POST,200,,MainThreadGroup 1-5,text,true,,1989,389,17,17,http://192.168.1.107:8080/books,17,0,0
+1739578532765,17,Add Book POST-0,302,,MainThreadGroup 1-5,,true,,186,264,17,17,http://192.168.1.107:8080/books/add,17,0,0
+1739578532782,10,Add Book POST-1,200,,MainThreadGroup 1-5,text,true,,1803,125,17,17,http://192.168.1.107:8080/books,10,0,0
+1739578532875,5,Show Add Form,200,,MainThreadGroup 1-10,text,true,,842,129,17,17,http://192.168.1.107:8080/books/add,5,0,0
+1739578532864,22,Add Book POST,200,,MainThreadGroup 1-6,text,true,,2244,389,17,17,http://192.168.1.107:8080/books,12,0,0
+1739578532864,12,Add Book POST-0,302,,MainThreadGroup 1-6,,true,,186,264,17,17,http://192.168.1.107:8080/books/add,12,0,0
+1739578532877,9,Add Book POST-1,200,,MainThreadGroup 1-6,text,true,,2058,125,17,17,http://192.168.1.107:8080/books,9,0,0
+1739578532879,10,Show List Form,200,,MainThreadGroup 1-14,text,true,,2058,185,18,18,http://192.168.1.107:8080/books,10,0,1
+1739578532987,23,Show List Form,200,,MainThreadGroup 1-15,text,true,,2058,185,19,19,http://192.168.1.107:8080/books,23,0,1
+1739578533002,11,Show Add Form,200,,MainThreadGroup 1-11,text,true,,842,129,19,19,http://192.168.1.107:8080/books/add,10,0,0
+1739578532991,39,Add Book POST,200,,MainThreadGroup 1-7,text,true,,2499,389,19,19,http://192.168.1.107:8080/books,26,0,0
+1739578532991,26,Add Book POST-0,302,,MainThreadGroup 1-7,,true,,186,264,19,19,http://192.168.1.107:8080/books/add,26,0,0
+1739578533017,13,Add Book POST-1,200,,MainThreadGroup 1-7,text,true,,2313,125,19,19,http://192.168.1.107:8080/books,13,0,0
+1739578533086,7,Show Add Form,200,,MainThreadGroup 1-12,text,true,,842,129,19,19,http://192.168.1.107:8080/books/add,7,0,0
+1739578533094,19,Show List Form,200,,MainThreadGroup 1-16,text,true,,2568,185,20,20,http://192.168.1.107:8080/books,19,0,1
+1739578533085,42,Add Book POST,200,,MainThreadGroup 1-8,text,true,,2754,389,20,20,http://192.168.1.107:8080/books,25,0,0
+1739578533085,25,Add Book POST-0,302,,MainThreadGroup 1-8,,true,,186,264,20,20,http://192.168.1.107:8080/books/add,25,0,0
+1739578533112,15,Add Book POST-1,200,,MainThreadGroup 1-8,text,true,,2568,125,20,20,http://192.168.1.107:8080/books,15,0,0
+1739578533191,20,Show Add Form,200,,MainThreadGroup 1-13,text,true,,842,129,20,20,http://192.168.1.107:8080/books/add,20,0,0
+1739578533187,28,Show List Form,200,,MainThreadGroup 1-17,text,true,,2568,185,21,21,http://192.168.1.107:8080/books,26,0,1
+1739578533180,46,Add Book POST,200,,MainThreadGroup 1-9,text,true,,3009,389,21,21,http://192.168.1.107:8080/books,26,0,0
+1739578533180,26,Add Book POST-0,302,,MainThreadGroup 1-9,,true,,186,264,21,21,http://192.168.1.107:8080/books/add,26,0,0
+1739578533206,20,Add Book POST-1,200,,MainThreadGroup 1-9,text,true,,2823,125,21,21,http://192.168.1.107:8080/books,19,0,0
+1739578533293,22,Show Add Form,200,,MainThreadGroup 1-14,text,true,,842,129,21,21,http://192.168.1.107:8080/books/add,22,0,0
+1739578533293,33,Show List Form,200,,MainThreadGroup 1-18,text,true,,2823,185,21,21,http://192.168.1.107:8080/books,32,0,1
+1739578533282,61,Add Book POST,200,,MainThreadGroup 1-10,text,true,,3266,389,22,22,http://192.168.1.107:8080/books,32,0,0
+1739578533282,32,Add Book POST-0,302,,MainThreadGroup 1-10,,true,,186,264,22,22,http://192.168.1.107:8080/books/add,32,0,0
+1739578533314,29,Add Book POST-1,200,,MainThreadGroup 1-10,text,true,,3080,125,22,22,http://192.168.1.107:8080/books,29,0,0
+1739578533410,18,Show List Form,200,,MainThreadGroup 1-19,text,true,,3080,185,22,22,http://192.168.1.107:8080/books,18,0,1
+1739578533416,15,Show Add Form,200,,MainThreadGroup 1-15,text,true,,842,129,22,22,http://192.168.1.107:8080/books/add,15,0,0
+1739578533417,45,Add Book POST,200,,MainThreadGroup 1-11,text,true,,3523,389,23,23,http://192.168.1.107:8080/books,24,0,0
+1739578533417,24,Add Book POST-0,302,,MainThreadGroup 1-11,,true,,186,264,23,23,http://192.168.1.107:8080/books/add,24,0,0
+1739578533442,20,Add Book POST-1,200,,MainThreadGroup 1-11,text,true,,3337,125,23,23,http://192.168.1.107:8080/books,20,0,0
+1739578533497,35,Add Book POST,200,,MainThreadGroup 1-12,text,true,,3780,389,23,23,http://192.168.1.107:8080/books,22,0,0
+1739578533497,22,Add Book POST-0,302,,MainThreadGroup 1-12,,true,,186,264,23,23,http://192.168.1.107:8080/books/add,22,0,0
+1739578533520,12,Add Book POST-1,200,,MainThreadGroup 1-12,text,true,,3594,125,23,23,http://192.168.1.107:8080/books,12,0,0
+1739578533511,32,Show List Form,200,,MainThreadGroup 1-20,text,true,,3594,185,23,23,http://192.168.1.107:8080/books,32,0,7
+1739578533529,15,Show Add Form,200,,MainThreadGroup 1-16,text,true,,842,129,23,23,http://192.168.1.107:8080/books/add,15,0,0
+1739578533622,22,Show List Form,200,,MainThreadGroup 1-21,text,true,,3851,185,24,24,http://192.168.1.107:8080/books,21,0,0
+1739578533631,18,Show Add Form,200,,MainThreadGroup 1-17,text,true,,842,129,24,24,http://192.168.1.107:8080/books/add,18,0,0
+1739578533614,42,Add Book POST,200,,MainThreadGroup 1-13,text,true,,4037,389,24,24,http://192.168.1.107:8080/books,24,0,0
+1739578533614,24,Add Book POST-0,302,,MainThreadGroup 1-13,,true,,186,264,24,24,http://192.168.1.107:8080/books/add,24,0,0
+1739578533638,18,Add Book POST-1,200,,MainThreadGroup 1-13,text,true,,3851,125,24,24,http://192.168.1.107:8080/books,12,0,0
+1739578533727,9,Show Add Form,200,,MainThreadGroup 1-18,text,true,,842,129,25,25,http://192.168.1.107:8080/books/add,8,0,0
+1739578533729,26,Show List Form,200,,MainThreadGroup 1-22,text,true,,4108,185,25,25,http://192.168.1.107:8080/books,25,0,6
+1739578533717,44,Add Book POST,200,,MainThreadGroup 1-14,text,true,,4294,389,25,25,http://192.168.1.107:8080/books,24,0,0
+1739578533717,24,Add Book POST-0,302,,MainThreadGroup 1-14,,true,,186,264,25,25,http://192.168.1.107:8080/books/add,24,0,0
+1739578533742,19,Add Book POST-1,200,,MainThreadGroup 1-14,text,true,,4108,125,25,25,http://192.168.1.107:8080/books,19,0,0
+1739578533830,8,Show Add Form,200,,MainThreadGroup 1-19,text,true,,842,129,26,26,http://192.168.1.107:8080/books/add,7,0,0
+1739578533840,23,Show List Form,200,,MainThreadGroup 1-23,text,true,,4108,185,26,26,http://192.168.1.107:8080/books,21,0,1
+1739578533833,48,Add Book POST,200,,MainThreadGroup 1-15,text,true,,4552,389,27,27,http://192.168.1.107:8080/books,30,0,0
+1739578533833,30,Add Book POST-0,302,,MainThreadGroup 1-15,,true,,186,264,27,27,http://192.168.1.107:8080/books/add,30,0,0
+1739578533863,18,Add Book POST-1,200,,MainThreadGroup 1-15,text,true,,4366,125,27,27,http://192.168.1.107:8080/books,18,0,0
+1739578533746,136,JDBC Request,200,OK,MainThreadGroup 1-10,text,true,,6,0,27,27,null,136,0,135
+1739578533005,875,JDBC Request,200,OK,MainThreadGroup 1-1,text,true,,6,0,27,27,null,871,0,840
+1739578533636,250,JDBC Request,200,OK,MainThreadGroup 1-9,text,true,,6,0,27,27,null,250,0,247
+1739578533535,355,JDBC Request,200,OK,MainThreadGroup 1-8,text,true,,6,0,27,27,null,355,0,352
+1739578533437,455,JDBC Request,200,OK,MainThreadGroup 1-7,text,true,,6,0,27,27,null,455,0,453
+1739578533290,606,JDBC Request,200,OK,MainThreadGroup 1-6,text,true,,6,0,27,27,null,605,0,602
+1739578533197,701,JDBC Request,200,OK,MainThreadGroup 1-5,text,true,,6,0,27,27,null,701,0,699
+1739578533089,812,JDBC Request,200,OK,MainThreadGroup 1-4,text,true,,6,0,27,27,null,812,0,810
+1739578533009,895,JDBC Request,200,OK,MainThreadGroup 1-2,text,true,,6,0,27,27,null,895,0,893
+1739578533007,901,JDBC Request,200,OK,MainThreadGroup 1-3,text,true,,6,0,27,27,null,900,0,897
+1739578533865,45,JDBC Request,200,OK,MainThreadGroup 1-11,text,true,,6,0,27,27,null,45,0,43
+1739578533933,2,JDBC Request,200,OK,MainThreadGroup 1-12,text,true,,6,0,27,27,null,2,0,0
+1739578533944,6,Show Add Form,200,,MainThreadGroup 1-20,text,true,,842,129,27,27,http://192.168.1.107:8080/books/add,6,0,0
+1739578533955,25,Show List Form,200,,MainThreadGroup 1-24,text,true,,4623,185,28,28,http://192.168.1.107:8080/books,25,0,2
+1739578533946,38,Add Book POST,200,,MainThreadGroup 1-16,text,true,,4809,389,28,28,http://192.168.1.107:8080/books,21,0,0
+1739578533946,21,Add Book POST-0,302,,MainThreadGroup 1-16,,true,,186,264,28,28,http://192.168.1.107:8080/books/add,21,0,0
+1739578533968,16,Add Book POST-1,200,,MainThreadGroup 1-16,text,true,,4623,125,28,28,http://192.168.1.107:8080/books,15,0,0
+1739578534047,7,Show Add Form,200,,MainThreadGroup 1-21,text,true,,842,129,28,28,http://192.168.1.107:8080/books/add,7,0,0
+1739578534058,2,JDBC Request,200,OK,MainThreadGroup 1-13,text,true,,6,0,28,28,null,2,0,0
+1739578534062,17,Show List Form,200,,MainThreadGroup 1-25,text,true,,4880,185,28,28,http://192.168.1.107:8080/books,17,0,2
+1739578534051,36,Add Book POST,200,,MainThreadGroup 1-17,text,true,,5066,389,29,29,http://192.168.1.107:8080/books,20,0,0
+1739578534051,20,Add Book POST-0,302,,MainThreadGroup 1-17,,true,,186,264,29,29,http://192.168.1.107:8080/books/add,20,0,0
+1739578534072,15,Add Book POST-1,200,,MainThreadGroup 1-17,text,true,,4880,125,29,29,http://192.168.1.107:8080/books,13,0,0
+1739578534157,11,Show Add Form,200,,MainThreadGroup 1-22,text,true,,842,129,29,29,http://192.168.1.107:8080/books/add,9,0,0
+1739578534162,7,JDBC Request,200,OK,MainThreadGroup 1-14,text,true,,6,0,29,29,null,7,0,0
+1739578534138,41,Add Book POST,200,,MainThreadGroup 1-18,text,true,,5323,389,29,29,http://192.168.1.107:8080/books,24,0,0
+1739578534138,24,Add Book POST-0,302,,MainThreadGroup 1-18,,true,,186,264,29,29,http://192.168.1.107:8080/books/add,24,0,0
+1739578534162,17,Add Book POST-1,200,,MainThreadGroup 1-18,text,true,,5137,125,29,29,http://192.168.1.107:8080/books,17,0,0
+1739578534181,18,Show List Form,200,,MainThreadGroup 1-26,text,true,,5137,185,30,30,http://192.168.1.107:8080/books,17,0,1
+1739578534240,29,Add Book POST,200,,MainThreadGroup 1-19,text,true,,5580,389,30,30,http://192.168.1.107:8080/books,15,0,0
+1739578534240,16,Add Book POST-0,302,,MainThreadGroup 1-19,,true,,186,264,30,30,http://192.168.1.107:8080/books/add,15,0,0
+1739578534257,12,Add Book POST-1,200,,MainThreadGroup 1-19,text,true,,5394,125,30,30,http://192.168.1.107:8080/books,11,0,0
+1739578534264,5,Show Add Form,200,,MainThreadGroup 1-23,text,true,,842,129,30,30,http://192.168.1.107:8080/books/add,5,0,0
+1739578534282,4,JDBC Request,200,OK,MainThreadGroup 1-15,text,true,,6,0,31,31,null,3,0,0
+1739578534277,16,Show List Form,200,,MainThreadGroup 1-27,text,true,,5394,185,31,31,http://192.168.1.107:8080/books,16,0,1
+1739578534312,1,Debug Sampler,200,OK,MainThreadGroup 1-11,text,true,,513,0,31,31,null,0,0,0
+1739578534307,6,Debug Sampler,200,OK,MainThreadGroup 1-10,text,true,,513,0,31,31,null,0,0,0
+1739578534306,7,Debug Sampler,200,OK,MainThreadGroup 1-7,text,true,,512,0,31,31,null,0,0,0
+1739578534311,3,Debug Sampler,200,OK,MainThreadGroup 1-3,text,true,,512,0,31,31,null,0,0,0
+1739578534305,9,Debug Sampler,200,OK,MainThreadGroup 1-6,text,true,,512,0,31,31,null,0,0,0
+1739578534305,11,Debug Sampler,200,OK,MainThreadGroup 1-5,text,true,,512,0,31,31,null,0,0,0
+1739578534306,11,Debug Sampler,200,OK,MainThreadGroup 1-9,text,true,,512,0,31,31,null,0,0,0
+1739578534308,9,Debug Sampler,200,OK,MainThreadGroup 1-8,text,true,,512,0,31,31,null,0,0,0
+1739578534308,10,Debug Sampler,200,OK,MainThreadGroup 1-1,text,true,,512,0,31,31,null,0,0,0
+1739578534308,8,Debug Sampler,200,OK,MainThreadGroup 1-2,text,true,,512,0,31,31,null,0,0,0
+1739578534309,9,Debug Sampler,200,OK,MainThreadGroup 1-4,text,true,,512,0,31,31,null,0,0,0
+1739578534338,1,Debug Sampler,200,OK,MainThreadGroup 1-12,text,true,,512,0,31,31,null,0,0,0
+1739578534354,25,Add Book POST,200,,MainThreadGroup 1-20,text,true,,5837,389,31,31,http://192.168.1.107:8080/books,12,0,0
+1739578534354,12,Add Book POST-0,302,,MainThreadGroup 1-20,,true,,186,264,31,31,http://192.168.1.107:8080/books/add,12,0,0
+1739578534366,13,Add Book POST-1,200,,MainThreadGroup 1-20,text,true,,5651,125,31,31,http://192.168.1.107:8080/books,12,0,0
+1739578534381,9,Show Add Form,200,,MainThreadGroup 1-24,text,true,,842,129,32,32,http://192.168.1.107:8080/books/add,9,0,0
+1739578534386,4,JDBC Request,200,OK,MainThreadGroup 1-16,text,true,,6,0,32,32,null,4,0,0
+1739578534380,15,Show List Form,200,,MainThreadGroup 1-28,text,true,,5651,185,32,32,http://192.168.1.107:8080/books,12,0,0
+1739578534463,1,Debug Sampler,200,OK,MainThreadGroup 1-13,text,true,,513,0,32,32,null,0,0,0
+1739578534455,22,Add Book POST,200,,MainThreadGroup 1-21,text,true,,6094,389,32,32,http://192.168.1.107:8080/books,14,0,0
+1739578534455,14,Add Book POST-0,302,,MainThreadGroup 1-21,,true,,186,264,32,32,http://192.168.1.107:8080/books/add,14,0,0
+1739578534469,8,Add Book POST-1,200,,MainThreadGroup 1-21,text,true,,5908,125,32,32,http://192.168.1.107:8080/books,8,0,0
+1739578534480,7,Show Add Form,200,,MainThreadGroup 1-25,text,true,,842,129,33,33,http://192.168.1.107:8080/books/add,6,0,0
+1739578534488,3,JDBC Request,200,OK,MainThreadGroup 1-17,text,true,,6,0,33,33,null,3,0,1
+1739578534484,13,Show List Form,200,,MainThreadGroup 1-29,text,true,,5908,185,33,33,http://192.168.1.107:8080/books,13,0,1
+1739578534570,1,Debug Sampler,200,OK,MainThreadGroup 1-14,text,true,,513,0,33,33,null,0,0,0
+1739578534580,3,JDBC Request,200,OK,MainThreadGroup 1-18,text,true,,6,0,33,33,null,2,0,0
+1739578534581,24,Show List Form,200,,MainThreadGroup 1-30,text,true,,6165,185,34,34,http://192.168.1.107:8080/books,24,0,4
+1739578534601,5,Show Add Form,200,,MainThreadGroup 1-26,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,5,0,0
+1739578534570,37,Add Book POST,200,,MainThreadGroup 1-22,text,true,,6351,389,34,34,http://192.168.1.107:8080/books,19,0,0
+1739578534570,19,Add Book POST-0,302,,MainThreadGroup 1-22,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,19,0,0
+1739578534589,18,Add Book POST-1,200,,MainThreadGroup 1-22,text,true,,6165,125,34,34,http://192.168.1.107:8080/books,18,0,0
+1739578534670,3,JDBC Request,200,OK,MainThreadGroup 1-19,text,true,,6,0,34,34,null,2,0,1
+1739578534687,1,Debug Sampler,200,OK,MainThreadGroup 1-15,text,true,,513,0,35,35,null,0,0,0
+1739578534694,9,Show Add Form,200,,MainThreadGroup 1-27,text,true,,842,129,35,35,http://192.168.1.107:8080/books/add,9,0,0
+1739578534684,19,Show List Form,200,,MainThreadGroup 1-31,text,true,,6422,185,35,35,http://192.168.1.107:8080/books,19,0,1
+1739578534671,37,Add Book POST,200,,MainThreadGroup 1-23,text,true,,6608,389,35,35,http://192.168.1.107:8080/books,18,0,0
+1739578534671,18,Add Book POST-0,302,,MainThreadGroup 1-23,,true,,186,264,35,35,http://192.168.1.107:8080/books/add,18,0,0
+1739578534689,19,Add Book POST-1,200,,MainThreadGroup 1-23,text,true,,6422,125,35,35,http://192.168.1.107:8080/books,19,0,0
+1739578534715,16,Show Edit Form,200,,MainThreadGroup 1-6,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/15,16,0,0
+1739578534716,18,Show Edit Form,200,,MainThreadGroup 1-10,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/15,15,0,0
+1739578534715,27,Show Edit Form,200,,MainThreadGroup 1-11,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/15,27,0,0
+1739578534715,27,Show Edit Form,200,,MainThreadGroup 1-7,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/15,27,0,0
+1739578534718,25,Show Edit Form,200,,MainThreadGroup 1-9,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/15,25,0,0
+1739578534718,31,Show Edit Form,200,,MainThreadGroup 1-8,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/15,27,0,0
+1739578534720,28,Show Edit Form,200,,MainThreadGroup 1-2,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/15,28,0,0
+1739578534720,31,Show Edit Form,200,,MainThreadGroup 1-4,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/15,28,0,0
+1739578534721,34,Show Edit Form,200,,MainThreadGroup 1-5,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/15,30,0,0
+1739578534718,41,Show Edit Form,200,,MainThreadGroup 1-1,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/14,41,0,0
+1739578534715,43,Show Edit Form,200,,MainThreadGroup 1-3,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/15,43,0,0
+1739578534741,20,Show Edit Form,200,,MainThreadGroup 1-12,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/15,19,0,0
+1739578534782,2,JDBC Request,200,OK,MainThreadGroup 1-20,text,true,,6,0,35,35,null,1,0,0
+1739578534792,0,Debug Sampler,200,OK,MainThreadGroup 1-16,text,true,,513,0,36,36,null,0,0,0
+1739578534799,10,Show Add Form,200,,MainThreadGroup 1-28,text,true,,842,129,36,36,http://192.168.1.107:8080/books/add,10,0,0
+1739578534793,20,Show List Form,200,,MainThreadGroup 1-32,text,true,,6422,185,36,36,http://192.168.1.107:8080/books,20,0,1
+1739578534794,37,Add Book POST,200,,MainThreadGroup 1-24,text,true,,6865,389,36,36,http://192.168.1.107:8080/books,25,0,0
+1739578534794,25,Add Book POST-0,302,,MainThreadGroup 1-24,,true,,186,264,36,36,http://192.168.1.107:8080/books/add,25,0,0
+1739578534819,12,Add Book POST-1,200,,MainThreadGroup 1-24,text,true,,6679,125,36,36,http://192.168.1.107:8080/books,11,0,0
+1739578534866,6,Show Edit Form,200,,MainThreadGroup 1-13,text,true,,899,133,36,36,http://192.168.1.107:8080/books/edit/16,6,0,0
+1739578534880,2,JDBC Request,200,OK,MainThreadGroup 1-21,text,true,,6,0,36,36,null,2,0,1
+1739578534893,0,Debug Sampler,200,OK,MainThreadGroup 1-17,text,true,,513,0,37,37,null,0,0,0
+1739578534884,15,Show List Form,200,,MainThreadGroup 1-33,text,true,,6679,185,37,37,http://192.168.1.107:8080/books,15,0,1
+1739578534899,6,Show Add Form,200,,MainThreadGroup 1-29,text,true,,842,129,37,37,http://192.168.1.107:8080/books/add,5,0,0
+1739578534888,31,Add Book POST,200,,MainThreadGroup 1-25,text,true,,7122,389,37,37,http://192.168.1.107:8080/books,21,0,0
+1739578534888,21,Add Book POST-0,302,,MainThreadGroup 1-25,,true,,186,264,37,37,http://192.168.1.107:8080/books/add,21,0,0
+1739578534909,10,Add Book POST-1,200,,MainThreadGroup 1-25,text,true,,6936,125,37,37,http://192.168.1.107:8080/books,10,0,0
+1739578534972,6,Show Edit Form,200,,MainThreadGroup 1-14,text,true,,899,133,37,37,http://192.168.1.107:8080/books/edit/18,6,0,0
+1739578534985,0,Debug Sampler,200,OK,MainThreadGroup 1-18,text,true,,513,0,37,37,null,0,0,0
+1739578534986,13,Show List Form,200,,MainThreadGroup 1-34,text,true,,6936,185,38,38,http://192.168.1.107:8080/books,12,0,1
+1739578535008,2,JDBC Request,200,OK,MainThreadGroup 1-22,text,true,,6,0,38,38,null,2,0,0
+1739578535007,9,Show Add Form,200,,MainThreadGroup 1-30,text,true,,842,129,38,38,http://192.168.1.107:8080/books/add,9,0,0
+1739578535008,34,Add Book POST,200,,MainThreadGroup 1-26,text,true,,7379,389,38,38,http://192.168.1.107:8080/books,22,0,0
+1739578535008,22,Add Book POST-0,302,,MainThreadGroup 1-26,,true,,186,264,38,38,http://192.168.1.107:8080/books/add,22,0,0
+1739578535031,11,Add Book POST-1,200,,MainThreadGroup 1-26,text,true,,7193,125,38,38,http://192.168.1.107:8080/books,11,0,0
+1739578535074,0,Debug Sampler,200,OK,MainThreadGroup 1-19,text,true,,513,0,38,38,null,0,0,0
+1739578535089,6,Show Edit Form,200,,MainThreadGroup 1-15,text,true,,899,133,39,39,http://192.168.1.107:8080/books/edit/19,6,0,0
+1739578535089,9,Show List Form,200,,MainThreadGroup 1-35,text,true,,7193,185,39,39,http://192.168.1.107:8080/books,9,0,1
+1739578535104,4,Show Add Form,200,,MainThreadGroup 1-31,text,true,,842,129,39,39,http://192.168.1.107:8080/books/add,3,0,0
+1739578535109,2,JDBC Request,200,OK,MainThreadGroup 1-23,text,true,,6,0,39,39,null,2,0,0
+1739578535104,26,Add Book POST,200,,MainThreadGroup 1-27,text,true,,7636,389,39,39,http://192.168.1.107:8080/books,15,0,0
+1739578535104,15,Add Book POST-0,302,,MainThreadGroup 1-27,,true,,186,264,39,39,http://192.168.1.107:8080/books/add,15,0,0
+1739578535119,11,Add Book POST-1,200,,MainThreadGroup 1-27,text,true,,7450,125,39,39,http://192.168.1.107:8080/books,11,0,0
+1739578535185,1,Debug Sampler,200,OK,MainThreadGroup 1-20,text,true,,513,0,39,39,null,0,0,0
+1739578535158,56,Update Book,200,,MainThreadGroup 1-5,text,true,,7643,398,40,40,http://192.168.1.107:8080/books,22,0,0
+1739578535158,22,Update Book-0,302,,MainThreadGroup 1-5,,true,,186,273,40,40,http://192.168.1.107:8080/books/update/15,22,0,0
+1739578535180,34,Update Book-1,200,,MainThreadGroup 1-5,text,true,,7457,125,40,40,http://192.168.1.107:8080/books,34,0,0
+1739578535218,19,Show Add Form,200,,MainThreadGroup 1-32,text,true,,842,129,40,40,http://192.168.1.107:8080/books/add,19,0,0
+1739578535232,8,JDBC Request,200,OK,MainThreadGroup 1-24,text,true,,6,0,40,40,null,7,0,0
+1739578535210,35,Show Edit Form,200,,MainThreadGroup 1-16,text,true,,899,133,40,40,http://192.168.1.107:8080/books/edit/20,35,0,0
+1739578535155,91,Update Book,200,,MainThreadGroup 1-4,text,true,,7643,398,40,40,http://192.168.1.107:8080/books,17,0,0
+1739578535155,17,Update Book-0,302,,MainThreadGroup 1-4,,true,,186,273,40,40,http://192.168.1.107:8080/books/update/15,17,0,0
+1739578535180,66,Update Book-1,200,,MainThreadGroup 1-4,text,true,,7457,125,40,40,http://192.168.1.107:8080/books,58,0,0
+1739578535167,80,Update Book,200,,MainThreadGroup 1-3,text,true,,7650,398,40,40,http://192.168.1.107:8080/books,35,0,0
+1739578535167,35,Update Book-0,302,,MainThreadGroup 1-3,,true,,186,273,40,40,http://192.168.1.107:8080/books/update/15,35,0,0
+1739578535202,45,Update Book-1,200,,MainThreadGroup 1-3,text,true,,7464,125,40,40,http://192.168.1.107:8080/books,45,0,0
+1739578535136,114,Update Book,200,,MainThreadGroup 1-10,text,true,,7643,398,40,40,http://192.168.1.107:8080/books,30,0,0
+1739578535136,30,Update Book-0,302,,MainThreadGroup 1-10,,true,,186,273,40,40,http://192.168.1.107:8080/books/update/15,30,0,0
+1739578535167,83,Update Book-1,200,,MainThreadGroup 1-10,text,true,,7457,125,40,40,http://192.168.1.107:8080/books,74,0,0
+1739578535144,105,Update Book,200,,MainThreadGroup 1-9,text,true,,7643,398,40,40,http://192.168.1.107:8080/books,39,0,0
+1739578535144,39,Update Book-0,302,,MainThreadGroup 1-9,,true,,186,273,40,40,http://192.168.1.107:8080/books/update/15,39,0,0
+1739578535184,65,Update Book-1,200,,MainThreadGroup 1-9,text,true,,7457,125,40,40,http://192.168.1.107:8080/books,64,0,0
+1739578535150,100,Update Book,200,,MainThreadGroup 1-8,text,true,,7643,398,40,40,http://192.168.1.107:8080/books,32,0,0
+1739578535150,32,Update Book-0,302,,MainThreadGroup 1-8,,true,,186,273,40,40,http://192.168.1.107:8080/books/update/15,32,0,0
+1739578535183,67,Update Book-1,200,,MainThreadGroup 1-8,text,true,,7457,125,40,40,http://192.168.1.107:8080/books,60,0,0
+1739578535144,110,Update Book,200,,MainThreadGroup 1-11,text,true,,7650,398,40,40,http://192.168.1.107:8080/books,36,0,0
+1739578535145,109,Update Book,200,,MainThreadGroup 1-7,text,true,,7643,398,40,40,http://192.168.1.107:8080/books,39,0,0
+1739578535144,36,Update Book-0,302,,MainThreadGroup 1-11,,true,,186,273,40,40,http://192.168.1.107:8080/books/update/15,36,0,0
+1739578535145,39,Update Book-0,302,,MainThreadGroup 1-7,,true,,186,273,40,40,http://192.168.1.107:8080/books/update/15,39,0,0
+1739578535180,74,Update Book-1,200,,MainThreadGroup 1-11,text,true,,7464,125,40,40,http://192.168.1.107:8080/books,66,0,0
+1739578535187,67,Update Book-1,200,,MainThreadGroup 1-7,text,true,,7457,125,40,40,http://192.168.1.107:8080/books,63,0,0
+1739578535163,96,Update Book,200,,MainThreadGroup 1-1,text,true,,7650,398,40,40,http://192.168.1.107:8080/books,50,0,0
+1739578535163,50,Update Book-0,302,,MainThreadGroup 1-1,,true,,186,273,40,40,http://192.168.1.107:8080/books/update/14,50,0,0
+1739578535213,46,Update Book-1,200,,MainThreadGroup 1-1,text,true,,7464,125,40,40,http://192.168.1.107:8080/books,46,0,0
+1739578535164,96,Update Book,200,,MainThreadGroup 1-12,text,true,,7650,398,40,40,http://192.168.1.107:8080/books,24,0,0
+1739578535164,24,Update Book-0,302,,MainThreadGroup 1-12,,true,,186,273,40,40,http://192.168.1.107:8080/books/update/15,24,0,0
+1739578535188,72,Update Book-1,200,,MainThreadGroup 1-12,text,true,,7464,125,40,40,http://192.168.1.107:8080/books,69,0,0
+1739578535133,128,Update Book,200,,MainThreadGroup 1-6,text,true,,7643,398,40,40,http://192.168.1.107:8080/books,40,0,0
+1739578535133,40,Update Book-0,302,,MainThreadGroup 1-6,,true,,186,273,40,40,http://192.168.1.107:8080/books/update/15,40,0,0
+1739578535173,88,Update Book-1,200,,MainThreadGroup 1-6,text,true,,7457,125,40,40,http://192.168.1.107:8080/books,88,0,0
+1739578535189,74,Show List Form,200,,MainThreadGroup 1-36,text,true,,7464,185,40,40,http://192.168.1.107:8080/books,74,0,0
+1739578535155,112,Update Book,200,,MainThreadGroup 1-2,text,true,,7650,398,40,40,http://192.168.1.107:8080/books,27,0,0
+1739578535155,27,Update Book-0,302,,MainThreadGroup 1-2,,true,,186,273,40,40,http://192.168.1.107:8080/books/update/15,27,0,0
+1739578535183,84,Update Book-1,200,,MainThreadGroup 1-2,text,true,,7464,125,40,40,http://192.168.1.107:8080/books,83,0,0
+1739578535284,0,Debug Sampler,200,OK,MainThreadGroup 1-21,text,true,,513,0,40,40,null,0,0,0
+1739578535301,9,Show Add Form,200,,MainThreadGroup 1-33,text,true,,842,129,41,41,http://192.168.1.107:8080/books/add,9,0,0
+1739578535217,94,Add Book POST,200,,MainThreadGroup 1-28,text,true,,7907,389,41,41,http://192.168.1.107:8080/books,60,0,0
+1739578535217,60,Add Book POST-0,302,,MainThreadGroup 1-28,,true,,186,264,41,41,http://192.168.1.107:8080/books/add,60,0,0
+1739578535278,33,Add Book POST-1,200,,MainThreadGroup 1-28,text,true,,7721,125,41,41,http://192.168.1.107:8080/books,32,0,0
+1739578535296,21,Show Edit Form,200,,MainThreadGroup 1-17,text,true,,899,133,41,41,http://192.168.1.107:8080/books/edit/21,21,0,0
+1739578535321,3,JDBC Request,200,OK,MainThreadGroup 1-25,text,true,,6,0,41,41,null,3,0,0
+1739578535293,31,Show List Form,200,,MainThreadGroup 1-37,text,true,,7728,185,41,41,http://192.168.1.107:8080/books,31,0,1
+1739578535273,60,Update Book,200,,MainThreadGroup 1-13,text,true,,7914,398,41,41,http://192.168.1.107:8080/books,31,0,0
+1739578535273,31,Update Book-0,302,,MainThreadGroup 1-13,,true,,186,273,41,41,http://192.168.1.107:8080/books/update/16,31,0,0
+1739578535304,29,Update Book-1,200,,MainThreadGroup 1-13,text,true,,7728,125,41,41,http://192.168.1.107:8080/books,29,0,0
+1739578535307,43,Add Book POST,200,,MainThreadGroup 1-29,text,true,,8171,389,41,41,http://192.168.1.107:8080/books,31,0,0
+1739578535307,31,Add Book POST-0,302,,MainThreadGroup 1-29,,true,,186,264,41,41,http://192.168.1.107:8080/books/add,31,0,0
+1739578535339,11,Add Book POST-1,200,,MainThreadGroup 1-29,text,true,,7985,125,41,41,http://192.168.1.107:8080/books,10,0,0
+1739578535386,23,Show Edit Form,200,,MainThreadGroup 1-18,text,true,,899,133,42,42,http://192.168.1.107:8080/books/edit/21,22,0,0
+1739578535402,9,Show Add Form,200,,MainThreadGroup 1-34,text,true,,842,129,42,42,http://192.168.1.107:8080/books/add,8,0,0
+1739578535411,0,Debug Sampler,200,OK,MainThreadGroup 1-22,text,true,,512,0,42,42,null,0,0,0
+1739578535392,27,Show List Form,200,,MainThreadGroup 1-38,text,true,,7985,185,42,42,http://192.168.1.107:8080/books,26,0,1
+1739578535379,51,Update Book,200,,MainThreadGroup 1-14,text,true,,8178,398,42,42,http://192.168.1.107:8080/books,29,0,0
+1739578535379,29,Update Book-0,302,,MainThreadGroup 1-14,,true,,186,273,42,42,http://192.168.1.107:8080/books/update/18,29,0,0
+1739578535411,19,Update Book-1,200,,MainThreadGroup 1-14,text,true,,7992,125,42,42,http://192.168.1.107:8080/books,19,0,0
+1739578535443,2,JDBC Request,200,OK,MainThreadGroup 1-26,text,true,,6,0,42,42,null,2,0,0
+1739578535417,29,Add Book POST,200,,MainThreadGroup 1-30,text,true,,8435,389,42,42,http://192.168.1.107:8080/books,17,0,0
+1739578535417,17,Add Book POST-0,302,,MainThreadGroup 1-30,,true,,186,264,42,42,http://192.168.1.107:8080/books/add,17,0,0
+1739578535435,11,Add Book POST-1,200,,MainThreadGroup 1-30,text,true,,8249,125,42,42,http://192.168.1.107:8080/books,11,0,0
+1739578535474,7,Show Edit Form,200,,MainThreadGroup 1-19,text,true,,899,133,42,42,http://192.168.1.107:8080/books/edit/22,7,0,0
+1739578535499,4,Show Add Form,200,,MainThreadGroup 1-35,text,true,,842,129,43,43,http://192.168.1.107:8080/books/add,4,0,0
+1739578535490,14,Show List Form,200,,MainThreadGroup 1-39,text,true,,8249,185,43,43,http://192.168.1.107:8080/books,14,0,1
+1739578535512,0,Debug Sampler,200,OK,MainThreadGroup 1-23,text,true,,513,0,43,43,null,0,0,0
+1739578535531,3,JDBC Request,200,OK,MainThreadGroup 1-27,text,true,,6,0,43,43,null,3,0,0
+1739578535496,46,Update Book,200,,MainThreadGroup 1-15,text,true,,8442,398,43,43,http://192.168.1.107:8080/books,22,0,0
+1739578535496,22,Update Book-0,302,,MainThreadGroup 1-15,,true,,186,273,43,43,http://192.168.1.107:8080/books/update/19,22,0,0
+1739578535518,24,Update Book-1,200,,MainThreadGroup 1-15,text,true,,8256,125,43,43,http://192.168.1.107:8080/books,23,0,0
+1739578535509,38,Add Book POST,200,,MainThreadGroup 1-31,text,true,,8705,389,43,43,http://192.168.1.107:8080/books,23,0,0
+1739578535509,23,Add Book POST-0,302,,MainThreadGroup 1-31,,true,,186,264,43,43,http://192.168.1.107:8080/books/add,23,0,0
+1739578535533,14,Add Book POST-1,200,,MainThreadGroup 1-31,text,true,,8519,125,43,43,http://192.168.1.107:8080/books,13,0,0
+1739578535590,7,Show Edit Form,200,,MainThreadGroup 1-20,text,true,,899,133,44,44,http://192.168.1.107:8080/books/edit/23,7,0,0
+1739578535595,13,Show List Form,200,,MainThreadGroup 1-40,text,true,,8519,185,44,44,http://192.168.1.107:8080/books,13,0,1
+1739578535641,0,Debug Sampler,200,OK,MainThreadGroup 1-24,text,true,,513,0,44,44,null,0,0,0
+1739578535615,27,Delete Book,200,,MainThreadGroup 1-5,text,true,,8435,260,44,44,http://192.168.1.107:8080/books,15,0,0
+1739578535615,15,Delete Book-0,302,,MainThreadGroup 1-5,,true,,186,135,44,44,http://192.168.1.107:8080/books/delete/15,15,0,0
+1739578535631,11,Delete Book-1,200,,MainThreadGroup 1-5,text,true,,8249,125,44,44,http://192.168.1.107:8080/books,10,0,0
+1739578535667,35,Show Add Form,200,,MainThreadGroup 1-36,text,true,,842,129,43,43,http://192.168.1.107:8080/books/add,35,0,0
+1739578535716,7,JDBC Request,200,OK,MainThreadGroup 1-28,text,true,,6,0,44,44,null,6,0,1
+1739578535727,2,Debug Sampler,200,OK,MainThreadGroup 1-25,text,true,,513,0,44,44,null,0,0,0
+1739578535751,5,JDBC Request,200,OK,MainThreadGroup 1-29,text,true,,6,0,44,44,null,3,0,1
+1739578535656,124,Delete Book,200,,MainThreadGroup 1-11,text,true,,8705,260,44,44,http://192.168.1.107:8080/books,21,0,0
+1739578535656,21,Delete Book-0,302,,MainThreadGroup 1-11,,true,,186,135,44,44,http://192.168.1.107:8080/books/delete/15,21,0,0
+1739578535678,102,Delete Book-1,200,,MainThreadGroup 1-11,text,true,,8519,125,44,44,http://192.168.1.107:8080/books,58,0,0
+1739578535730,53,Show Add Form,200,,MainThreadGroup 1-37,text,true,,842,129,44,44,http://192.168.1.107:8080/books/add,53,0,0
+1739578535653,144,Delete Book,200,,MainThreadGroup 1-9,text,true,,8435,260,43,43,http://192.168.1.107:8080/books,26,0,0
+1739578535653,26,Delete Book-0,302,,MainThreadGroup 1-9,,true,,186,135,43,43,http://192.168.1.107:8080/books/delete/15,26,0,0
+1739578535679,118,Delete Book-1,200,,MainThreadGroup 1-9,text,true,,8249,125,43,43,http://192.168.1.107:8080/books,111,0,0
+1739578535639,165,Add Book POST,200,,MainThreadGroup 1-32,text,true,,8705,389,42,42,http://192.168.1.107:8080/books,36,0,0
+1739578535639,36,Add Book POST-0,302,,MainThreadGroup 1-32,,true,,186,264,42,42,http://192.168.1.107:8080/books/add,36,0,0
+1739578535675,129,Add Book POST-1,200,,MainThreadGroup 1-32,text,true,,8519,125,42,42,http://192.168.1.107:8080/books,90,0,0
+1739578535697,114,Show List Form,200,,MainThreadGroup 1-41,text,true,,8512,185,42,42,http://192.168.1.107:8080/books,113,0,6
+1739578535647,168,Delete Book,200,,MainThreadGroup 1-4,text,true,,8435,260,43,43,http://192.168.1.107:8080/books,65,0,0
+1739578535647,65,Delete Book-0,302,,MainThreadGroup 1-4,,true,,186,135,43,43,http://192.168.1.107:8080/books/delete/15,65,0,0
+1739578535715,100,Delete Book-1,200,,MainThreadGroup 1-4,text,true,,8249,125,43,43,http://192.168.1.107:8080/books,99,0,0
+1739578535687,140,Show Edit Form,200,,MainThreadGroup 1-21,text,true,,899,133,42,42,http://192.168.1.107:8080/books/edit/24,88,0,0
+1739578535667,163,Delete Book,200,,MainThreadGroup 1-6,text,true,,8435,260,42,42,http://192.168.1.107:8080/books,107,0,0
+1739578535667,107,Delete Book-0,302,,MainThreadGroup 1-6,,true,,186,135,42,42,http://192.168.1.107:8080/books/delete/15,107,0,0
+1739578535774,56,Delete Book-1,200,,MainThreadGroup 1-6,text,true,,8249,125,42,42,http://192.168.1.107:8080/books,52,0,0
+1739578535799,36,Show List Form,200,,MainThreadGroup 1-42,text,true,,8249,185,41,41,http://192.168.1.107:8080/books,34,0,1
+1739578535718,119,Update Book,200,,MainThreadGroup 1-17,text,true,,8435,398,41,41,http://192.168.1.107:8080/books,75,0,0
+1739578535718,75,Update Book-0,302,,MainThreadGroup 1-17,,true,,186,273,41,41,http://192.168.1.107:8080/books/update/21,75,0,0
+1739578535793,44,Update Book-1,200,,MainThreadGroup 1-17,text,true,,8249,125,41,41,http://192.168.1.107:8080/books,44,0,0
+1739578535650,191,Delete Book,200,,MainThreadGroup 1-3,text,true,,8435,260,41,41,http://192.168.1.107:8080/books,46,0,0
+1739578535650,46,Delete Book-0,302,,MainThreadGroup 1-3,,true,,186,135,41,41,http://192.168.1.107:8080/books/delete/15,46,0,0
+1739578535696,145,Delete Book-1,200,,MainThreadGroup 1-3,text,true,,8249,125,41,41,http://192.168.1.107:8080/books,98,0,0
+1739578535849,1,Debug Sampler,200,OK,MainThreadGroup 1-26,text,true,,512,0,40,40,null,0,0,0
+1739578535646,200,Update Book,200,,MainThreadGroup 1-16,text,true,,8435,398,40,40,http://192.168.1.107:8080/books,76,0,0
+1739578535646,76,Update Book-0,302,,MainThreadGroup 1-16,,true,,186,273,40,40,http://192.168.1.107:8080/books/update/20,76,0,0
+1739578535722,124,Update Book-1,200,,MainThreadGroup 1-16,text,true,,8249,125,40,40,http://192.168.1.107:8080/books,124,0,0
+1739578535656,195,Delete Book,200,,MainThreadGroup 1-10,text,true,,8698,260,40,40,http://192.168.1.107:8080/books,35,0,0
+1739578535656,35,Delete Book-0,302,,MainThreadGroup 1-10,,true,,186,135,40,40,http://192.168.1.107:8080/books/delete/15,35,0,0
+1739578535692,159,Delete Book-1,200,,MainThreadGroup 1-10,text,true,,8512,125,40,40,http://192.168.1.107:8080/books,101,0,0
+1739578535847,4,JDBC Request,200,OK,MainThreadGroup 1-30,text,true,,6,0,40,40,null,4,0,0
+1739578535673,188,Delete Book,200,,MainThreadGroup 1-2,text,true,,8698,260,39,39,http://192.168.1.107:8080/books,30,0,0
+1739578535673,30,Delete Book-0,302,,MainThreadGroup 1-2,,true,,186,135,39,39,http://192.168.1.107:8080/books/delete/15,30,0,0
+1739578535704,157,Delete Book-1,200,,MainThreadGroup 1-2,text,true,,8512,125,39,39,http://192.168.1.107:8080/books,150,0,0
+1739578535654,210,Delete Book,200,,MainThreadGroup 1-8,text,true,,8698,260,38,38,http://192.168.1.107:8080/books,115,0,0
+1739578535654,115,Delete Book-0,302,,MainThreadGroup 1-8,,true,,186,135,38,38,http://192.168.1.107:8080/books/delete/15,115,0,0
+1739578535771,93,Delete Book-1,200,,MainThreadGroup 1-8,text,true,,8512,125,38,38,http://192.168.1.107:8080/books,91,0,0
+1739578535829,38,Show Add Form,200,,MainThreadGroup 1-38,text,true,,842,129,37,37,http://192.168.1.107:8080/books/add,21,0,0
+1739578535663,203,Delete Book,200,,MainThreadGroup 1-1,text,true,,8435,260,37,37,http://192.168.1.107:8080/books,101,0,0
+1739578535663,101,Delete Book-0,302,,MainThreadGroup 1-1,,true,,186,135,37,37,http://192.168.1.107:8080/books/delete/14,101,0,0
+1739578535764,102,Delete Book-1,200,,MainThreadGroup 1-1,text,true,,8249,125,37,37,http://192.168.1.107:8080/books,99,0,0
+1739578535657,220,Delete Book,200,,MainThreadGroup 1-7,text,true,,8435,260,36,36,http://192.168.1.107:8080/books,65,0,0
+1739578535657,65,Delete Book-0,302,,MainThreadGroup 1-7,,true,,186,135,36,36,http://192.168.1.107:8080/books/delete/15,65,0,0
+1739578535722,155,Delete Book-1,200,,MainThreadGroup 1-7,text,true,,8249,125,36,36,http://192.168.1.107:8080/books,133,0,0
+1739578535737,148,Delete Book,200,,MainThreadGroup 1-13,text,true,,8698,260,35,35,http://192.168.1.107:8080/books,90,0,0
+1739578535737,90,Delete Book-0,302,,MainThreadGroup 1-13,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/16,90,0,0
+1739578535829,56,Delete Book-1,200,,MainThreadGroup 1-13,text,true,,8512,125,35,35,http://192.168.1.107:8080/books,54,0,0
+1739578535813,75,Add Book POST,200,,MainThreadGroup 1-34,text,true,,8698,389,34,34,http://192.168.1.107:8080/books,30,0,0
+1739578535813,30,Add Book POST-0,302,,MainThreadGroup 1-34,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,30,0,0
+1739578535843,45,Add Book POST-1,200,,MainThreadGroup 1-34,text,true,,8512,125,34,34,http://192.168.1.107:8080/books,43,0,0
+1739578535669,225,Delete Book,200,,MainThreadGroup 1-12,text,true,,8698,260,34,34,http://192.168.1.107:8080/books,105,0,0
+1739578535669,105,Delete Book-0,302,,MainThreadGroup 1-12,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/15,105,0,0
+1739578535774,120,Delete Book-1,200,,MainThreadGroup 1-12,text,true,,8512,125,34,34,http://192.168.1.107:8080/books,120,0,0
+1739578535715,188,Add Book POST,200,,MainThreadGroup 1-33,text,true,,8698,389,33,33,http://192.168.1.107:8080/books,77,0,0
+1739578535715,77,Add Book POST-0,302,,MainThreadGroup 1-33,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,77,0,0
+1739578535793,110,Add Book POST-1,200,,MainThreadGroup 1-33,text,true,,8512,125,33,33,http://192.168.1.107:8080/books,109,0,0
+1739578535825,79,Show Edit Form,200,,MainThreadGroup 1-22,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/25,79,0,0
+1739578535908,17,Show Add Form,200,,MainThreadGroup 1-39,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,17,0,0
+1739578535822,105,Update Book,200,,MainThreadGroup 1-18,text,true,,8428,398,34,34,http://192.168.1.107:8080/books,72,0,0
+1739578535822,72,Update Book-0,302,,MainThreadGroup 1-18,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/21,72,0,0
+1739578535894,33,Update Book-1,200,,MainThreadGroup 1-18,text,true,,8242,125,34,34,http://192.168.1.107:8080/books,31,0,0
+1739578535914,17,Show Edit Form,200,,MainThreadGroup 1-23,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/26,17,0,0
+1739578535833,102,Delete Book,200,,MainThreadGroup 1-14,text,true,,8428,260,34,34,http://192.168.1.107:8080/books,51,0,0
+1739578535833,51,Delete Book-0,302,,MainThreadGroup 1-14,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/18,51,0,0
+1739578535885,50,Delete Book-1,200,,MainThreadGroup 1-14,text,true,,8242,125,34,34,http://192.168.1.107:8080/books,40,0,0
+1739578535900,36,Show List Form,200,,MainThreadGroup 1-43,text,true,,8242,185,34,34,http://192.168.1.107:8080/books,27,0,0
+1739578535936,0,Debug Sampler,200,OK,MainThreadGroup 1-27,text,true,,513,0,34,34,null,0,0,0
+1739578535882,68,Update Book,200,,MainThreadGroup 1-19,text,true,,8435,398,33,33,http://192.168.1.107:8080/books,42,0,0
+1739578535882,42,Update Book-0,302,,MainThreadGroup 1-19,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/22,42,0,0
+1739578535924,26,Update Book-1,200,,MainThreadGroup 1-19,text,true,,8249,125,33,33,http://192.168.1.107:8080/books,24,0,0
+1739578535948,3,JDBC Request,200,OK,MainThreadGroup 1-31,text,true,,6,0,33,33,null,3,0,0
+1739578535908,57,Add Book POST,200,,MainThreadGroup 1-35,text,true,,8698,389,33,33,http://192.168.1.107:8080/books,34,0,0
+1739578535908,34,Add Book POST-0,302,,MainThreadGroup 1-35,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,34,0,0
+1739578535942,23,Add Book POST-1,200,,MainThreadGroup 1-35,text,true,,8512,125,33,33,http://192.168.1.107:8080/books,20,0,0
+1739578535943,34,Delete Book,200,,MainThreadGroup 1-15,text,true,,8428,260,33,33,http://192.168.1.107:8080/books,22,0,0
+1739578535943,22,Delete Book-0,302,,MainThreadGroup 1-15,,true,,186,135,33,33,http://192.168.1.107:8080/books/delete/19,22,0,0
+1739578535966,11,Delete Book-1,200,,MainThreadGroup 1-15,text,true,,8242,125,33,33,http://192.168.1.107:8080/books,11,0,0
+1739578536009,6,Show Add Form,200,,MainThreadGroup 1-40,text,true,,842,129,32,32,http://192.168.1.107:8080/books/add,4,0,0
+1739578535999,24,Show List Form,200,,MainThreadGroup 1-44,text,true,,8242,185,33,33,http://192.168.1.107:8080/books,24,0,1
+1739578535998,38,Update Book,200,,MainThreadGroup 1-20,text,true,,8435,398,33,33,http://192.168.1.107:8080/books,24,0,0
+1739578535998,24,Update Book-0,302,,MainThreadGroup 1-20,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/23,24,0,0
+1739578536023,13,Update Book-1,200,,MainThreadGroup 1-20,text,true,,8249,125,33,33,http://192.168.1.107:8080/books,13,0,0
+1739578536044,8,Show Edit Form,200,,MainThreadGroup 1-24,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/27,7,0,0
+1739578536112,13,Show List Form,200,,MainThreadGroup 1-45,text,true,,8249,185,34,34,http://192.168.1.107:8080/books,11,0,1
+1739578536125,1,Debug Sampler,200,OK,MainThreadGroup 1-28,text,true,,513,0,34,34,null,0,0,0
+1739578536132,6,Show Edit Form,200,,MainThreadGroup 1-25,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/28,6,0,0
+1739578536104,38,Add Book POST,200,,MainThreadGroup 1-36,text,true,,8698,389,34,34,http://192.168.1.107:8080/books,24,0,0
+1739578536104,24,Add Book POST-0,302,,MainThreadGroup 1-36,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,24,0,0
+1739578536128,14,Add Book POST-1,200,,MainThreadGroup 1-36,text,true,,8512,125,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578536158,0,Debug Sampler,200,OK,MainThreadGroup 1-29,text,true,,513,0,34,34,null,0,0,0
+1739578536205,1,JDBC Request,200,OK,MainThreadGroup 1-32,text,true,,6,0,34,34,null,1,0,0
+1739578536212,5,Show Add Form,200,,MainThreadGroup 1-41,text,true,,842,129,35,35,http://192.168.1.107:8080/books/add,5,0,0
+1739578536185,31,Add Book POST,200,,MainThreadGroup 1-37,text,true,,8956,389,35,35,http://192.168.1.107:8080/books,15,0,0
+1739578536185,15,Add Book POST-0,302,,MainThreadGroup 1-37,,true,,186,264,35,35,http://192.168.1.107:8080/books/add,15,0,0
+1739578536201,15,Add Book POST-1,200,,MainThreadGroup 1-37,text,true,,8770,125,35,35,http://192.168.1.107:8080/books,15,0,0
+1739578536218,15,Show List Form,200,,MainThreadGroup 1-46,text,true,,8770,185,35,35,http://192.168.1.107:8080/books,14,0,0
+1739578536240,13,Show Add Form,200,,MainThreadGroup 1-42,text,true,,842,129,35,35,http://192.168.1.107:8080/books/add,13,0,0
+1739578536256,0,Debug Sampler,200,OK,MainThreadGroup 1-30,text,true,,513,0,35,35,null,0,0,0
+1739578536234,59,Update Book,200,,MainThreadGroup 1-21,text,true,,8963,398,35,35,http://192.168.1.107:8080/books,19,0,0
+1739578536255,38,Show Edit Form,200,,MainThreadGroup 1-26,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/30,35,0,0
+1739578536234,19,Update Book-0,302,,MainThreadGroup 1-21,,true,,186,273,35,35,http://192.168.1.107:8080/books/update/24,19,0,0
+1739578536253,40,Update Book-1,200,,MainThreadGroup 1-21,text,true,,8777,125,35,35,http://192.168.1.107:8080/books,40,0,0
+1739578536291,6,JDBC Request,200,OK,MainThreadGroup 1-34,text,true,,6,0,35,35,null,5,0,0
+1739578536306,4,JDBC Request,200,OK,MainThreadGroup 1-33,text,true,,6,0,35,35,null,3,0,0
+1739578536242,74,Delete Book,200,,MainThreadGroup 1-17,text,true,,8428,260,35,35,http://192.168.1.107:8080/books,28,0,0
+1739578536242,28,Delete Book-0,302,,MainThreadGroup 1-17,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/21,28,0,0
+1739578536270,46,Delete Book-1,200,,MainThreadGroup 1-17,text,true,,8242,125,35,35,http://192.168.1.107:8080/books,45,0,0
+1739578536255,64,Delete Book,200,,MainThreadGroup 1-16,text,true,,8428,260,34,34,http://192.168.1.107:8080/books,37,0,0
+1739578536255,37,Delete Book-0,302,,MainThreadGroup 1-16,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/20,37,0,0
+1739578536293,26,Delete Book-1,200,,MainThreadGroup 1-16,text,true,,8242,125,34,34,http://192.168.1.107:8080/books,22,0,0
+1739578536352,1,Debug Sampler,200,OK,MainThreadGroup 1-31,text,true,,513,0,34,34,null,0,0,0
+1739578536269,93,Add Book POST,200,,MainThreadGroup 1-38,text,true,,8691,389,34,34,http://192.168.1.107:8080/books,41,0,0
+1739578536269,41,Add Book POST-0,302,,MainThreadGroup 1-38,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,41,0,0
+1739578536310,52,Add Book POST-1,200,,MainThreadGroup 1-38,text,true,,8505,125,34,34,http://192.168.1.107:8080/books,51,0,0
+1739578536341,23,Show Add Form,200,,MainThreadGroup 1-43,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,22,0,0
+1739578536367,11,JDBC Request,200,OK,MainThreadGroup 1-35,text,true,,6,0,34,34,null,10,0,0
+1739578536326,59,Add Book POST,200,,MainThreadGroup 1-39,text,true,,8956,389,34,34,http://192.168.1.107:8080/books,24,0,0
+1739578536326,24,Add Book POST-0,302,,MainThreadGroup 1-39,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,24,0,0
+1739578536350,35,Add Book POST-1,200,,MainThreadGroup 1-39,text,true,,8770,125,34,34,http://192.168.1.107:8080/books,31,0,0
+1739578536340,55,Show Edit Form,200,,MainThreadGroup 1-27,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/31,50,0,0
+1739578536323,76,Show List Form,200,,MainThreadGroup 1-47,text,true,,8770,185,34,34,http://192.168.1.107:8080/books,73,0,10
+1739578536337,66,Update Book,200,,MainThreadGroup 1-23,text,true,,8698,398,34,34,http://192.168.1.107:8080/books,38,0,0
+1739578536337,38,Update Book-0,302,,MainThreadGroup 1-23,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/26,38,0,0
+1739578536377,26,Update Book-1,200,,MainThreadGroup 1-23,text,true,,8512,125,34,34,http://192.168.1.107:8080/books,26,0,0
+1739578536354,55,Delete Book,200,,MainThreadGroup 1-19,text,true,,8698,260,34,34,http://192.168.1.107:8080/books,30,0,0
+1739578536354,30,Delete Book-0,302,,MainThreadGroup 1-19,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/22,30,0,0
+1739578536385,24,Delete Book-1,200,,MainThreadGroup 1-19,text,true,,8512,125,34,34,http://192.168.1.107:8080/books,23,0,0
+1739578536310,106,Update Book,200,,MainThreadGroup 1-22,text,true,,8963,398,33,33,http://192.168.1.107:8080/books,35,0,0
+1739578536310,35,Update Book-0,302,,MainThreadGroup 1-22,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/25,35,0,0
+1739578536346,70,Update Book-1,200,,MainThreadGroup 1-22,text,true,,8777,125,33,33,http://192.168.1.107:8080/books,70,0,0
+1739578536332,86,Delete Book,200,,MainThreadGroup 1-18,text,true,,8698,260,33,33,http://192.168.1.107:8080/books,24,0,0
+1739578536332,24,Delete Book-0,302,,MainThreadGroup 1-18,,true,,186,135,33,33,http://192.168.1.107:8080/books/delete/21,24,0,0
+1739578536357,61,Delete Book-1,200,,MainThreadGroup 1-18,text,true,,8512,125,33,33,http://192.168.1.107:8080/books,61,0,0
+1739578536437,12,Show Add Form,200,,MainThreadGroup 1-44,text,true,,842,129,33,33,http://192.168.1.107:8080/books/add,12,0,0
+1739578536417,47,Add Book POST,200,,MainThreadGroup 1-40,text,true,,8956,389,33,33,http://192.168.1.107:8080/books,22,0,0
+1739578536417,22,Add Book POST-0,302,,MainThreadGroup 1-40,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,22,0,0
+1739578536439,25,Add Book POST-1,200,,MainThreadGroup 1-40,text,true,,8770,125,33,33,http://192.168.1.107:8080/books,25,0,0
+1739578536420,48,Show List Form,200,,MainThreadGroup 1-48,text,true,,8770,185,33,33,http://192.168.1.107:8080/books,48,0,19
+1739578536438,51,Delete Book,200,,MainThreadGroup 1-20,text,true,,8698,260,33,33,http://192.168.1.107:8080/books,26,0,0
+1739578536438,26,Delete Book-0,302,,MainThreadGroup 1-20,,true,,186,135,33,33,http://192.168.1.107:8080/books/delete/23,26,0,0
+1739578536464,25,Delete Book-1,200,,MainThreadGroup 1-20,text,true,,8512,125,33,33,http://192.168.1.107:8080/books,24,0,0
+1739578536455,37,Update Book,200,,MainThreadGroup 1-24,text,true,,8698,398,32,32,http://192.168.1.107:8080/books,22,0,0
+1739578536455,22,Update Book-0,302,,MainThreadGroup 1-24,,true,,186,273,32,32,http://192.168.1.107:8080/books/update/27,22,0,0
+1739578536478,14,Update Book-1,200,,MainThreadGroup 1-24,text,true,,8512,125,32,32,http://192.168.1.107:8080/books,14,0,0
+1739578536526,12,Show Add Form,200,,MainThreadGroup 1-45,text,true,,842,129,33,33,http://192.168.1.107:8080/books/add,9,0,0
+1739578536528,14,Show Edit Form,200,,MainThreadGroup 1-28,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/32,14,0,0
+1739578536544,2,JDBC Request,200,OK,MainThreadGroup 1-36,text,true,,6,0,33,33,null,2,0,0
+1739578536523,24,Show List Form,200,,MainThreadGroup 1-49,text,true,,8512,185,33,33,http://192.168.1.107:8080/books,24,0,1
+1739578536560,11,Show Edit Form,200,,MainThreadGroup 1-29,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/33,11,0,0
+1739578536540,38,Update Book,200,,MainThreadGroup 1-25,text,true,,8705,398,33,33,http://192.168.1.107:8080/books,20,0,0
+1739578536540,20,Update Book-0,302,,MainThreadGroup 1-25,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/28,20,0,0
+1739578536560,18,Update Book-1,200,,MainThreadGroup 1-25,text,true,,8519,125,33,33,http://192.168.1.107:8080/books,17,0,0
+1739578536608,0,Debug Sampler,200,OK,MainThreadGroup 1-32,text,true,,512,0,33,33,null,0,0,0
+1739578536618,4,JDBC Request,200,OK,MainThreadGroup 1-37,text,true,,6,0,33,33,null,4,0,0
+1739578536635,5,Show Add Form,200,,MainThreadGroup 1-46,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,5,0,0
+1739578536618,28,Show List Form,200,,MainThreadGroup 1-50,text,true,,8519,185,34,34,http://192.168.1.107:8080/books,28,0,3
+1739578536618,34,Add Book POST,200,,MainThreadGroup 1-41,text,true,,8963,389,34,34,http://192.168.1.107:8080/books,22,0,0
+1739578536618,22,Add Book POST-0,302,,MainThreadGroup 1-41,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,22,0,0
+1739578536640,12,Add Book POST-1,200,,MainThreadGroup 1-41,text,true,,8777,125,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578536658,18,Show Edit Form,200,,MainThreadGroup 1-30,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/34,17,0,0
+1739578536699,0,Debug Sampler,200,OK,MainThreadGroup 1-34,text,true,,513,0,34,34,null,0,0,0
+1739578536655,44,Add Book POST,200,,MainThreadGroup 1-42,text,true,,9220,389,34,34,http://192.168.1.107:8080/books,20,0,0
+1739578536655,20,Add Book POST-0,302,,MainThreadGroup 1-42,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,20,0,0
+1739578536676,23,Add Book POST-1,200,,MainThreadGroup 1-42,text,true,,9034,125,34,34,http://192.168.1.107:8080/books,23,0,0
+1739578536711,0,Debug Sampler,200,OK,MainThreadGroup 1-33,text,true,,513,0,34,34,null,0,0,0
+1739578536695,38,Delete Book,200,,MainThreadGroup 1-21,text,true,,8963,260,35,35,http://192.168.1.107:8080/books,17,0,0
+1739578536695,17,Delete Book-0,302,,MainThreadGroup 1-21,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/24,17,0,0
+1739578536712,21,Delete Book-1,200,,MainThreadGroup 1-21,text,true,,8777,125,35,35,http://192.168.1.107:8080/books,20,0,0
+1739578536695,38,Update Book,200,,MainThreadGroup 1-26,text,true,,8963,398,35,35,http://192.168.1.107:8080/books,23,0,0
+1739578536695,23,Update Book-0,302,,MainThreadGroup 1-26,,true,,186,273,35,35,http://192.168.1.107:8080/books/update/30,23,0,0
+1739578536719,14,Update Book-1,200,,MainThreadGroup 1-26,text,true,,8777,125,35,35,http://192.168.1.107:8080/books,13,0,0
+1739578536726,15,Show List Form,200,,MainThreadGroup 1-51,text,true,,8777,185,34,34,http://192.168.1.107:8080/books,15,0,1
+1739578536754,6,Show Edit Form,200,,MainThreadGroup 1-31,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/35,6,0,0
+1739578536765,2,JDBC Request,200,OK,MainThreadGroup 1-38,text,true,,6,0,34,34,null,2,0,0
+1739578536782,1,Debug Sampler,200,OK,MainThreadGroup 1-35,text,true,,513,0,34,34,null,0,0,0
+1739578536787,2,JDBC Request,200,OK,MainThreadGroup 1-39,text,true,,6,0,34,34,null,2,0,0
+1739578536767,25,Add Book POST,200,,MainThreadGroup 1-43,text,true,,9220,389,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578536767,13,Add Book POST-0,302,,MainThreadGroup 1-43,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,13,0,0
+1739578536780,12,Add Book POST-1,200,,MainThreadGroup 1-43,text,true,,9034,125,34,34,http://192.168.1.107:8080/books,11,0,0
+1739578536800,5,Show Add Form,200,,MainThreadGroup 1-47,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,4,0,0
+1739578536798,49,Update Book,200,,MainThreadGroup 1-27,text,true,,8963,398,35,35,http://192.168.1.107:8080/books,23,0,0
+1739578536798,23,Update Book-0,302,,MainThreadGroup 1-27,,true,,186,273,35,35,http://192.168.1.107:8080/books/update/31,23,0,0
+1739578536821,26,Update Book-1,200,,MainThreadGroup 1-27,text,true,,8777,125,35,35,http://192.168.1.107:8080/books,26,0,0
+1739578536804,48,Delete Book,200,,MainThreadGroup 1-23,text,true,,8963,260,35,35,http://192.168.1.107:8080/books,23,0,0
+1739578536804,23,Delete Book-0,302,,MainThreadGroup 1-23,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/26,23,0,0
+1739578536828,24,Delete Book-1,200,,MainThreadGroup 1-23,text,true,,8777,125,35,35,http://192.168.1.107:8080/books,23,0,0
+1739578536818,51,Delete Book,200,,MainThreadGroup 1-22,text,true,,8698,260,34,34,http://192.168.1.107:8080/books,24,0,0
+1739578536818,24,Delete Book-0,302,,MainThreadGroup 1-22,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/25,24,0,0
+1739578536842,27,Delete Book-1,200,,MainThreadGroup 1-22,text,true,,8512,125,34,34,http://192.168.1.107:8080/books,27,0,0
+1739578536864,6,JDBC Request,200,OK,MainThreadGroup 1-40,text,true,,6,0,33,33,null,6,0,1
+1739578536870,5,Show Add Form,200,,MainThreadGroup 1-48,text,true,,842,129,33,33,http://192.168.1.107:8080/books/add,5,0,0
+1739578536850,26,Show List Form,200,,MainThreadGroup 1-52,text,true,,8512,185,33,33,http://192.168.1.107:8080/books,25,0,2
+1739578536852,36,Add Book POST,200,,MainThreadGroup 1-44,text,true,,8956,389,33,33,http://192.168.1.107:8080/books,21,0,0
+1739578536852,21,Add Book POST-0,302,,MainThreadGroup 1-44,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,21,0,0
+1739578536874,14,Add Book POST-1,200,,MainThreadGroup 1-44,text,true,,8770,125,33,33,http://192.168.1.107:8080/books,13,0,0
+1739578536893,23,Delete Book,200,,MainThreadGroup 1-24,text,true,,8691,260,33,33,http://192.168.1.107:8080/books,12,0,0
+1739578536893,12,Delete Book-0,302,,MainThreadGroup 1-24,,true,,186,135,33,33,http://192.168.1.107:8080/books/delete/27,12,0,0
+1739578536905,11,Delete Book-1,200,,MainThreadGroup 1-24,text,true,,8505,125,33,33,http://192.168.1.107:8080/books,10,0,0
+1739578536926,15,Show List Form,200,,MainThreadGroup 1-53,text,true,,8505,185,33,33,http://192.168.1.107:8080/books,15,0,1
+1739578536947,1,Debug Sampler,200,OK,MainThreadGroup 1-36,text,true,,513,0,33,33,null,0,0,0
+1739578536948,5,Show Add Form,200,,MainThreadGroup 1-49,text,true,,842,129,33,33,http://192.168.1.107:8080/books/add,4,0,0
+1739578536939,33,Add Book POST,200,,MainThreadGroup 1-45,text,true,,8949,389,33,33,http://192.168.1.107:8080/books,17,0,0
+1739578536939,17,Add Book POST-0,302,,MainThreadGroup 1-45,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,17,0,0
+1739578536956,16,Add Book POST-1,200,,MainThreadGroup 1-45,text,true,,8763,125,33,33,http://192.168.1.107:8080/books,16,0,0
+1739578536943,46,Update Book,200,,MainThreadGroup 1-28,text,true,,8956,398,33,33,http://192.168.1.107:8080/books,21,0,0
+1739578536943,21,Update Book-0,302,,MainThreadGroup 1-28,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/32,21,0,0
+1739578536964,25,Update Book-1,200,,MainThreadGroup 1-28,text,true,,8770,125,33,33,http://192.168.1.107:8080/books,25,0,0
+1739578536973,38,Update Book,200,,MainThreadGroup 1-29,text,true,,8963,398,33,33,http://192.168.1.107:8080/books,23,0,0
+1739578536973,23,Update Book-0,302,,MainThreadGroup 1-29,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/33,23,0,0
+1739578536997,14,Update Book-1,200,,MainThreadGroup 1-29,text,true,,8777,125,33,33,http://192.168.1.107:8080/books,13,0,0
+1739578536980,37,Delete Book,200,,MainThreadGroup 1-25,text,true,,8698,260,33,33,http://192.168.1.107:8080/books,25,0,0
+1739578536980,25,Delete Book-0,302,,MainThreadGroup 1-25,,true,,186,135,33,33,http://192.168.1.107:8080/books/delete/28,25,0,0
+1739578537005,12,Delete Book-1,200,,MainThreadGroup 1-25,text,true,,8512,125,33,33,http://192.168.1.107:8080/books,12,0,0
+1739578537009,9,Show Edit Form,200,,MainThreadGroup 1-32,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/37,8,0,0
+1739578537022,1,Debug Sampler,200,OK,MainThreadGroup 1-37,text,true,,513,0,32,32,null,0,0,0
+1739578537029,12,Show List Form,200,,MainThreadGroup 1-54,text,true,,8512,185,33,33,http://192.168.1.107:8080/books,12,0,2
+1739578537047,4,Show Add Form,200,,MainThreadGroup 1-50,text,true,,842,129,33,33,http://192.168.1.107:8080/books/add,4,0,0
+1739578537054,3,JDBC Request,200,OK,MainThreadGroup 1-41,text,true,,6,0,33,33,null,3,0,0
+1739578537042,30,Add Book POST,200,,MainThreadGroup 1-46,text,true,,8956,389,33,33,http://192.168.1.107:8080/books,15,0,0
+1739578537042,15,Add Book POST-0,302,,MainThreadGroup 1-46,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,15,0,0
+1739578537057,15,Add Book POST-1,200,,MainThreadGroup 1-46,text,true,,8770,125,33,33,http://192.168.1.107:8080/books,14,0,0
+1739578537077,25,Update Book,200,,MainThreadGroup 1-30,text,true,,8963,398,33,33,http://192.168.1.107:8080/books,14,0,0
+1739578537077,14,Update Book-0,302,,MainThreadGroup 1-30,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/34,14,0,0
+1739578537091,11,Update Book-1,200,,MainThreadGroup 1-30,text,true,,8777,125,33,33,http://192.168.1.107:8080/books,9,0,0
+1739578537100,3,JDBC Request,200,OK,MainThreadGroup 1-42,text,true,,6,0,33,33,null,2,0,0
+1739578537100,10,Show Edit Form,200,,MainThreadGroup 1-34,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/37,10,0,0
+1739578537112,6,Show Edit Form,200,,MainThreadGroup 1-33,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/38,5,0,0
+1739578537127,16,Show List Form,200,,MainThreadGroup 1-55,text,true,,8777,185,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578537141,5,Show Add Form,200,,MainThreadGroup 1-51,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,5,0,0
+1739578537168,0,Debug Sampler,200,OK,MainThreadGroup 1-38,text,true,,513,0,34,34,null,0,0,0
+1739578537135,37,Delete Book,200,,MainThreadGroup 1-26,text,true,,8698,260,34,34,http://192.168.1.107:8080/books,25,0,0
+1739578537135,25,Delete Book-0,302,,MainThreadGroup 1-26,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/30,25,0,0
+1739578537160,12,Delete Book-1,200,,MainThreadGroup 1-26,text,true,,8512,125,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578537161,28,Update Book,200,,MainThreadGroup 1-31,text,true,,8705,398,33,33,http://192.168.1.107:8080/books,17,0,0
+1739578537161,17,Update Book-0,302,,MainThreadGroup 1-31,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/35,17,0,0
+1739578537178,11,Update Book-1,200,,MainThreadGroup 1-31,text,true,,8519,125,33,33,http://192.168.1.107:8080/books,11,0,0
+1739578537190,0,Debug Sampler,200,OK,MainThreadGroup 1-39,text,true,,513,0,33,33,null,0,0,0
+1739578537184,9,Show Edit Form,200,,MainThreadGroup 1-35,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/39,9,0,0
+1739578537194,2,JDBC Request,200,OK,MainThreadGroup 1-43,text,true,,6,0,33,33,null,2,0,0
+1739578537207,33,Add Book POST,200,,MainThreadGroup 1-47,text,true,,8963,389,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578537207,13,Add Book POST-0,302,,MainThreadGroup 1-47,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,13,0,0
+1739578537221,19,Add Book POST-1,200,,MainThreadGroup 1-47,text,true,,8777,125,34,34,http://192.168.1.107:8080/books,19,0,0
+1739578537230,14,Show List Form,200,,MainThreadGroup 1-56,text,true,,8777,185,34,34,http://192.168.1.107:8080/books,14,0,2
+1739578537248,21,Delete Book,200,,MainThreadGroup 1-27,text,true,,8698,260,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578537248,12,Delete Book-0,302,,MainThreadGroup 1-27,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/31,12,0,0
+1739578537261,8,Delete Book-1,200,,MainThreadGroup 1-27,text,true,,8512,125,34,34,http://192.168.1.107:8080/books,7,0,0
+1739578537270,1,Debug Sampler,200,OK,MainThreadGroup 1-40,text,true,,513,0,33,33,null,0,0,0
+1739578537278,5,Show Add Form,200,,MainThreadGroup 1-52,text,true,,842,129,33,33,http://192.168.1.107:8080/books/add,5,0,0
+1739578537289,2,JDBC Request,200,OK,MainThreadGroup 1-44,text,true,,6,0,33,33,null,2,0,0
+1739578537278,26,Add Book POST,200,,MainThreadGroup 1-48,text,true,,8956,389,33,33,http://192.168.1.107:8080/books,14,0,0
+1739578537278,14,Add Book POST-0,302,,MainThreadGroup 1-48,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,14,0,0
+1739578537293,11,Add Book POST-1,200,,MainThreadGroup 1-48,text,true,,8770,125,33,33,http://192.168.1.107:8080/books,10,0,0
+1739578537329,11,Show List Form,200,,MainThreadGroup 1-57,text,true,,8770,185,34,34,http://192.168.1.107:8080/books,10,0,1
+1739578537343,3,Show Add Form,200,,MainThreadGroup 1-53,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,3,0,0
+1739578537350,7,Show Edit Form,200,,MainThreadGroup 1-36,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/40,7,0,0
+1739578537373,2,JDBC Request,200,OK,MainThreadGroup 1-45,text,true,,6,0,34,34,null,2,0,0
+1739578537353,27,Add Book POST,200,,MainThreadGroup 1-49,text,true,,9213,389,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578537353,12,Add Book POST-0,302,,MainThreadGroup 1-49,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,12,0,0
+1739578537366,14,Add Book POST-1,200,,MainThreadGroup 1-49,text,true,,9027,125,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578537391,26,Delete Book,200,,MainThreadGroup 1-28,text,true,,8949,260,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578537391,13,Delete Book-0,302,,MainThreadGroup 1-28,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/32,13,0,0
+1739578537404,13,Delete Book-1,200,,MainThreadGroup 1-28,text,true,,8763,125,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578537425,15,Show Edit Form,200,,MainThreadGroup 1-37,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/40,14,0,0
+1739578537443,6,Show Add Form,200,,MainThreadGroup 1-54,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,6,0,0
+1739578537433,22,Show List Form,200,,MainThreadGroup 1-58,text,true,,8498,185,34,34,http://192.168.1.107:8080/books,22,0,2
+1739578537414,44,Delete Book,200,,MainThreadGroup 1-29,text,true,,8684,260,34,34,http://192.168.1.107:8080/books,20,0,0
+1739578537414,20,Delete Book-0,302,,MainThreadGroup 1-29,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/33,20,0,0
+1739578537435,23,Delete Book-1,200,,MainThreadGroup 1-29,text,true,,8498,125,34,34,http://192.168.1.107:8080/books,22,0,0
+1739578537460,0,Debug Sampler,200,OK,MainThreadGroup 1-41,text,true,,512,0,33,33,null,0,0,0
+1739578537420,52,Update Book,200,,MainThreadGroup 1-32,text,true,,8691,398,33,33,http://192.168.1.107:8080/books,29,0,0
+1739578537420,29,Update Book-0,302,,MainThreadGroup 1-32,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/37,29,0,0
+1739578537451,21,Update Book-1,200,,MainThreadGroup 1-32,text,true,,8505,125,33,33,http://192.168.1.107:8080/books,21,0,0
+1739578537473,8,JDBC Request,200,OK,MainThreadGroup 1-46,text,true,,6,0,33,33,null,4,0,0
+1739578537454,39,Add Book POST,200,,MainThreadGroup 1-50,text,true,,8949,389,33,33,http://192.168.1.107:8080/books,24,0,0
+1739578537454,24,Add Book POST-0,302,,MainThreadGroup 1-50,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,24,0,0
+1739578537480,13,Add Book POST-1,200,,MainThreadGroup 1-50,text,true,,8763,125,33,33,http://192.168.1.107:8080/books,13,0,0
+1739578537504,0,Debug Sampler,200,OK,MainThreadGroup 1-42,text,true,,513,0,33,33,null,0,0,0
+1739578537504,37,Delete Book,200,,MainThreadGroup 1-30,text,true,,8684,260,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578537504,13,Delete Book-0,302,,MainThreadGroup 1-30,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/34,13,0,0
+1739578537517,24,Delete Book-1,200,,MainThreadGroup 1-30,text,true,,8498,125,34,34,http://192.168.1.107:8080/books,24,0,0
+1739578537511,31,Update Book,200,,MainThreadGroup 1-34,text,true,,8684,398,34,34,http://192.168.1.107:8080/books,7,0,0
+1739578537511,7,Update Book-0,302,,MainThreadGroup 1-34,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/37,7,0,0
+1739578537518,24,Update Book-1,200,,MainThreadGroup 1-34,text,true,,8498,125,34,34,http://192.168.1.107:8080/books,24,0,0
+1739578537546,7,Show Add Form,200,,MainThreadGroup 1-55,text,true,,842,129,33,33,http://192.168.1.107:8080/books/add,6,0,0
+1739578537533,24,Show List Form,200,,MainThreadGroup 1-59,text,true,,8498,185,33,33,http://192.168.1.107:8080/books,22,0,1
+1739578537520,53,Update Book,200,,MainThreadGroup 1-33,text,true,,8691,398,33,33,http://192.168.1.107:8080/books,27,0,0
+1739578537520,27,Update Book-0,302,,MainThreadGroup 1-33,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/38,27,0,0
+1739578537547,26,Update Book-1,200,,MainThreadGroup 1-33,text,true,,8505,125,33,33,http://192.168.1.107:8080/books,25,0,0
+1739578537570,11,Show Edit Form,200,,MainThreadGroup 1-38,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/42,11,0,0
+1739578537547,40,Add Book POST,200,,MainThreadGroup 1-51,text,true,,8949,389,33,33,http://192.168.1.107:8080/books,26,0,0
+1739578537547,26,Add Book POST-0,302,,MainThreadGroup 1-51,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,26,0,0
+1739578537573,14,Add Book POST-1,200,,MainThreadGroup 1-51,text,true,,8763,125,33,33,http://192.168.1.107:8080/books,14,0,0
+1739578537597,1,Debug Sampler,200,OK,MainThreadGroup 1-43,text,true,,513,0,33,33,null,0,0,0
+1739578537591,13,Show Edit Form,200,,MainThreadGroup 1-39,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/43,13,0,0
+1739578537590,39,Delete Book,200,,MainThreadGroup 1-31,text,true,,8691,260,33,33,http://192.168.1.107:8080/books,17,0,0
+1739578537590,17,Delete Book-0,302,,MainThreadGroup 1-31,,true,,186,135,33,33,http://192.168.1.107:8080/books/delete/35,17,0,0
+1739578537607,22,Delete Book-1,200,,MainThreadGroup 1-31,text,true,,8505,125,33,33,http://192.168.1.107:8080/books,22,0,0
+1739578537642,1,JDBC Request,200,OK,MainThreadGroup 1-47,text,true,,6,0,33,33,null,1,0,0
+1739578537596,51,Update Book,200,,MainThreadGroup 1-35,text,true,,8691,398,33,33,http://192.168.1.107:8080/books,25,0,0
+1739578537596,25,Update Book-0,302,,MainThreadGroup 1-35,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/39,25,0,0
+1739578537622,25,Update Book-1,200,,MainThreadGroup 1-35,text,true,,8505,125,33,33,http://192.168.1.107:8080/books,25,0,0
+1739578537634,17,Show List Form,200,,MainThreadGroup 1-60,text,true,,8505,185,33,33,http://192.168.1.107:8080/books,16,0,2
+1739578537648,6,Show Add Form,200,,MainThreadGroup 1-56,text,true,,842,129,33,33,http://192.168.1.107:8080/books/add,5,0,0
+1739578537671,8,Show Edit Form,200,,MainThreadGroup 1-40,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/43,8,0,0
+1739578537692,0,Debug Sampler,200,OK,MainThreadGroup 1-44,text,true,,513,0,33,33,null,0,0,0
+1739578537705,1,JDBC Request,200,OK,MainThreadGroup 1-48,text,true,,6,0,33,33,null,1,0,0
+1739578537684,23,Add Book POST,200,,MainThreadGroup 1-52,text,true,,8949,389,33,33,http://192.168.1.107:8080/books,14,0,0
+1739578537684,14,Add Book POST-0,302,,MainThreadGroup 1-52,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,14,0,0
+1739578537698,9,Add Book POST-1,200,,MainThreadGroup 1-52,text,true,,8763,125,33,33,http://192.168.1.107:8080/books,9,0,0
+1739578537731,10,Show List Form,200,,MainThreadGroup 1-61,text,true,,8763,185,34,34,http://192.168.1.107:8080/books,10,0,1
+1739578537741,4,Show Add Form,200,,MainThreadGroup 1-57,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,3,0,0
+1739578537747,27,Add Book POST,200,,MainThreadGroup 1-53,text,true,,9206,389,34,34,http://192.168.1.107:8080/books,11,0,0
+1739578537747,11,Add Book POST-0,302,,MainThreadGroup 1-53,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,11,0,0
+1739578537758,16,Add Book POST-1,200,,MainThreadGroup 1-53,text,true,,9020,125,34,34,http://192.168.1.107:8080/books,15,0,0
+1739578537777,1,Debug Sampler,200,OK,MainThreadGroup 1-45,text,true,,513,0,34,34,null,0,0,0
+1739578537781,1,JDBC Request,200,OK,MainThreadGroup 1-49,text,true,,6,0,34,34,null,1,0,0
+1739578537758,31,Update Book,200,,MainThreadGroup 1-36,text,true,,9213,398,34,34,http://192.168.1.107:8080/books,18,0,0
+1739578537758,18,Update Book-0,302,,MainThreadGroup 1-36,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/40,18,0,0
+1739578537776,13,Update Book-1,200,,MainThreadGroup 1-36,text,true,,9027,125,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578537832,14,Show List Form,200,,MainThreadGroup 1-62,text,true,,9027,185,35,35,http://192.168.1.107:8080/books,14,0,1
+1739578537857,5,Show Add Form,200,,MainThreadGroup 1-58,text,true,,842,129,35,35,http://192.168.1.107:8080/books/add,5,0,0
+1739578537842,29,Update Book,200,,MainThreadGroup 1-37,text,true,,9213,398,35,35,http://192.168.1.107:8080/books,8,0,0
+1739578537842,8,Update Book-0,302,,MainThreadGroup 1-37,,true,,186,273,35,35,http://192.168.1.107:8080/books/update/40,8,0,0
+1739578537850,21,Update Book-1,200,,MainThreadGroup 1-37,text,true,,9027,125,35,35,http://192.168.1.107:8080/books,21,0,0
+1739578537861,16,Show Edit Form,200,,MainThreadGroup 1-41,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/46,16,0,0
+1739578537882,0,Debug Sampler,200,OK,MainThreadGroup 1-46,text,true,,513,0,35,35,null,0,0,0
+1739578537850,44,Add Book POST,200,,MainThreadGroup 1-54,text,true,,9470,389,35,35,http://192.168.1.107:8080/books,18,0,0
+1739578537850,18,Add Book POST-0,302,,MainThreadGroup 1-54,,true,,186,264,35,35,http://192.168.1.107:8080/books/add,18,0,0
+1739578537869,25,Add Book POST-1,200,,MainThreadGroup 1-54,text,true,,9284,125,35,35,http://192.168.1.107:8080/books,25,0,0
+1739578537894,2,JDBC Request,200,OK,MainThreadGroup 1-50,text,true,,6,0,35,35,null,2,0,0
+1739578537873,29,Delete Book,200,,MainThreadGroup 1-32,text,true,,9206,260,35,35,http://192.168.1.107:8080/books,15,0,0
+1739578537873,15,Delete Book-0,302,,MainThreadGroup 1-32,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/37,15,0,0
+1739578537888,14,Delete Book-1,200,,MainThreadGroup 1-32,text,true,,9020,125,35,35,http://192.168.1.107:8080/books,14,0,0
+1739578537905,6,Show Edit Form,200,,MainThreadGroup 1-42,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/46,6,0,0
+1739578537932,13,Show List Form,200,,MainThreadGroup 1-63,text,true,,9020,185,35,35,http://192.168.1.107:8080/books,12,0,1
+1739578537945,16,Delete Book,200,,MainThreadGroup 1-34,text,true,,9206,260,35,35,http://192.168.1.107:8080/books,4,0,0
+1739578537945,4,Delete Book-0,302,,MainThreadGroup 1-34,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/37,4,0,0
+1739578537949,12,Delete Book-1,200,,MainThreadGroup 1-34,text,true,,9020,125,35,35,http://192.168.1.107:8080/books,12,0,0
+1739578537958,4,Show Add Form,200,,MainThreadGroup 1-59,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,4,0,0
+1739578537954,28,Add Book POST,200,,MainThreadGroup 1-55,text,true,,9463,389,34,34,http://192.168.1.107:8080/books,15,0,0
+1739578537954,15,Add Book POST-0,302,,MainThreadGroup 1-55,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,15,0,0
+1739578537969,13,Add Book POST-1,200,,MainThreadGroup 1-55,text,true,,9277,125,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578537988,3,JDBC Request,200,OK,MainThreadGroup 1-51,text,true,,6,0,34,34,null,2,0,0
+1739578537999,11,Show Edit Form,200,,MainThreadGroup 1-43,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/46,10,0,0
+1739578537978,35,Delete Book,200,,MainThreadGroup 1-33,text,true,,9199,260,34,34,http://192.168.1.107:8080/books,18,0,0
+1739578537978,18,Delete Book-0,302,,MainThreadGroup 1-33,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/38,18,0,0
+1739578537996,17,Delete Book-1,200,,MainThreadGroup 1-33,text,true,,9013,125,34,34,http://192.168.1.107:8080/books,16,0,0
+1739578537981,43,Update Book,200,,MainThreadGroup 1-38,text,true,,9206,398,34,34,http://192.168.1.107:8080/books,22,0,0
+1739578537981,22,Update Book-0,302,,MainThreadGroup 1-38,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/42,22,0,0
+1739578538003,21,Update Book-1,200,,MainThreadGroup 1-38,text,true,,9020,125,34,34,http://192.168.1.107:8080/books,20,0,0
+1739578538005,31,Update Book,200,,MainThreadGroup 1-39,text,true,,9213,398,34,34,http://192.168.1.107:8080/books,21,0,0
+1739578538005,21,Update Book-0,302,,MainThreadGroup 1-39,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/43,21,0,0
+1739578538027,9,Update Book-1,200,,MainThreadGroup 1-39,text,true,,9027,125,34,34,http://192.168.1.107:8080/books,9,0,0
+1739578538044,0,Debug Sampler,200,OK,MainThreadGroup 1-47,text,true,,513,0,34,34,null,0,0,0
+1739578538035,20,Show List Form,200,,MainThreadGroup 1-64,text,true,,9027,185,34,34,http://192.168.1.107:8080/books,20,0,1
+1739578538052,7,Show Add Form,200,,MainThreadGroup 1-60,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,6,0,0
+1739578538054,41,Add Book POST,200,,MainThreadGroup 1-56,text,true,,9206,389,34,34,http://192.168.1.107:8080/books,27,0,0
+1739578538054,27,Add Book POST-0,302,,MainThreadGroup 1-56,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,27,0,0
+1739578538082,13,Add Book POST-1,200,,MainThreadGroup 1-56,text,true,,9020,125,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578538048,49,Delete Book,200,,MainThreadGroup 1-35,text,true,,9206,260,34,34,http://192.168.1.107:8080/books,29,0,0
+1739578538048,29,Delete Book-0,302,,MainThreadGroup 1-35,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/39,29,0,0
+1739578538077,20,Delete Book-1,200,,MainThreadGroup 1-35,text,true,,9020,125,34,34,http://192.168.1.107:8080/books,20,0,0
+1739578538080,24,Update Book,200,,MainThreadGroup 1-40,text,true,,9206,398,33,33,http://192.168.1.107:8080/books,9,0,0
+1739578538095,9,Show Edit Form,200,,MainThreadGroup 1-44,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/47,9,0,0
+1739578538080,9,Update Book-0,302,,MainThreadGroup 1-40,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/43,9,0,0
+1739578538090,14,Update Book-1,200,,MainThreadGroup 1-40,text,true,,9020,125,33,33,http://192.168.1.107:8080/books,14,0,0
+1739578538109,0,Debug Sampler,200,OK,MainThreadGroup 1-48,text,true,,513,0,33,33,null,0,0,0
+1739578538109,2,JDBC Request,200,OK,MainThreadGroup 1-52,text,true,,6,0,33,33,null,1,0,0
+1739578538130,13,Show List Form,200,,MainThreadGroup 1-65,text,true,,9020,185,34,34,http://192.168.1.107:8080/books,10,0,0
+1739578538142,8,Show Add Form,200,,MainThreadGroup 1-61,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,8,0,0
+1739578538146,28,Add Book POST,200,,MainThreadGroup 1-57,text,true,,9463,389,34,34,http://192.168.1.107:8080/books,16,0,0
+1739578538146,16,Add Book POST-0,302,,MainThreadGroup 1-57,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,16,0,0
+1739578538162,12,Add Book POST-1,200,,MainThreadGroup 1-57,text,true,,9277,125,34,34,http://192.168.1.107:8080/books,11,0,0
+1739578538180,3,JDBC Request,200,OK,MainThreadGroup 1-53,text,true,,6,0,34,34,null,3,0,0
+1739578538184,0,Debug Sampler,200,OK,MainThreadGroup 1-49,text,true,,513,0,34,34,null,0,0,0
+1739578538181,10,Show Edit Form,200,,MainThreadGroup 1-45,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/49,10,0,0
+1739578538191,27,Delete Book,200,,MainThreadGroup 1-36,text,true,,9199,260,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578538191,13,Delete Book-0,302,,MainThreadGroup 1-36,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/40,13,0,0
+1739578538204,14,Delete Book-1,200,,MainThreadGroup 1-36,text,true,,9013,125,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578538248,5,Show Add Form,200,,MainThreadGroup 1-62,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,4,0,0
+1739578538241,15,Show List Form,200,,MainThreadGroup 1-66,text,true,,9013,185,34,34,http://192.168.1.107:8080/books,14,0,3
+1739578538284,12,Show Edit Form,200,,MainThreadGroup 1-46,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/50,12,0,0
+1739578538297,0,Debug Sampler,200,OK,MainThreadGroup 1-50,text,true,,513,0,34,34,null,0,0,0
+1739578538295,4,JDBC Request,200,OK,MainThreadGroup 1-54,text,true,,6,0,34,34,null,3,0,0
+1739578538264,43,Add Book POST,200,,MainThreadGroup 1-58,text,true,,9456,389,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578538264,14,Add Book POST-0,302,,MainThreadGroup 1-58,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,14,0,0
+1739578538278,29,Add Book POST-1,200,,MainThreadGroup 1-58,text,true,,9270,125,34,34,http://192.168.1.107:8080/books,29,0,0
+1739578538273,38,Delete Book,200,,MainThreadGroup 1-37,text,true,,9456,260,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578538273,13,Delete Book-0,302,,MainThreadGroup 1-37,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/40,13,0,0
+1739578538286,25,Delete Book-1,200,,MainThreadGroup 1-37,text,true,,9270,125,34,34,http://192.168.1.107:8080/books,24,0,0
+1739578538279,41,Update Book,200,,MainThreadGroup 1-41,text,true,,9463,398,34,34,http://192.168.1.107:8080/books,24,0,0
+1739578538279,24,Update Book-0,302,,MainThreadGroup 1-41,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/46,24,0,0
+1739578538304,16,Update Book-1,200,,MainThreadGroup 1-41,text,true,,9277,125,34,34,http://192.168.1.107:8080/books,16,0,0
+1739578538312,20,Update Book,200,,MainThreadGroup 1-42,text,true,,9463,398,34,34,http://192.168.1.107:8080/books,6,0,0
+1739578538312,6,Update Book-0,302,,MainThreadGroup 1-42,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/46,6,0,0
+1739578538319,13,Update Book-1,200,,MainThreadGroup 1-42,text,true,,9277,125,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578538325,16,Show List Form,200,,MainThreadGroup 1-67,text,true,,9277,185,34,34,http://192.168.1.107:8080/books,16,0,2
+1739578538346,5,Show Add Form,200,,MainThreadGroup 1-63,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,5,0,0
+1739578538384,2,JDBC Request,200,OK,MainThreadGroup 1-55,text,true,,6,0,34,34,null,1,0,0
+1739578538392,0,Debug Sampler,200,OK,MainThreadGroup 1-51,text,true,,513,0,34,34,null,0,0,0
+1739578538363,35,Add Book POST,200,,MainThreadGroup 1-59,text,true,,9720,389,34,34,http://192.168.1.107:8080/books,21,0,0
+1739578538363,21,Add Book POST-0,302,,MainThreadGroup 1-59,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,21,0,0
+1739578538385,13,Add Book POST-1,200,,MainThreadGroup 1-59,text,true,,9534,125,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578538411,21,Update Book,200,,MainThreadGroup 1-43,text,true,,9720,398,35,35,http://192.168.1.107:8080/books,4,0,0
+1739578538411,4,Update Book-0,302,,MainThreadGroup 1-43,,true,,186,273,35,35,http://192.168.1.107:8080/books/update/46,4,0,0
+1739578538415,17,Update Book-1,200,,MainThreadGroup 1-43,text,true,,9534,125,35,35,http://192.168.1.107:8080/books,17,0,0
+1739578538425,20,Show List Form,200,,MainThreadGroup 1-68,text,true,,9534,185,35,35,http://192.168.1.107:8080/books,20,0,1
+1739578538445,10,Show Edit Form,200,,MainThreadGroup 1-47,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/51,10,0,0
+1739578538456,9,Show Add Form,200,,MainThreadGroup 1-64,text,true,,842,129,35,35,http://192.168.1.107:8080/books/add,8,0,0
+1739578538425,50,Delete Book,200,,MainThreadGroup 1-38,text,true,,9456,260,35,35,http://192.168.1.107:8080/books,20,0,0
+1739578538425,20,Delete Book-0,302,,MainThreadGroup 1-38,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/42,20,0,0
+1739578538445,30,Delete Book-1,200,,MainThreadGroup 1-38,text,true,,9270,125,35,35,http://192.168.1.107:8080/books,30,0,0
+1739578538437,49,Delete Book,200,,MainThreadGroup 1-39,text,true,,9192,260,34,34,http://192.168.1.107:8080/books,26,0,0
+1739578538437,26,Delete Book-0,302,,MainThreadGroup 1-39,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/43,26,0,0
+1739578538463,23,Delete Book-1,200,,MainThreadGroup 1-39,text,true,,9006,125,34,34,http://192.168.1.107:8080/books,23,0,0
+1739578538461,38,Add Book POST,200,,MainThreadGroup 1-60,text,true,,9449,389,33,33,http://192.168.1.107:8080/books,27,0,0
+1739578538461,27,Add Book POST-0,302,,MainThreadGroup 1-60,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,27,0,0
+1739578538488,11,Add Book POST-1,200,,MainThreadGroup 1-60,text,true,,9263,125,33,33,http://192.168.1.107:8080/books,11,0,0
+1739578538497,3,JDBC Request,200,OK,MainThreadGroup 1-56,text,true,,6,0,33,33,null,2,0,1
+1739578538512,0,Debug Sampler,200,OK,MainThreadGroup 1-52,text,true,,513,0,33,33,null,0,0,0
+1739578538510,14,Show Edit Form,200,,MainThreadGroup 1-48,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/52,14,0,0
+1739578538505,32,Delete Book,200,,MainThreadGroup 1-40,text,true,,9449,260,34,34,http://192.168.1.107:8080/books,11,0,0
+1739578538505,11,Delete Book-0,302,,MainThreadGroup 1-40,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/43,11,0,0
+1739578538517,20,Delete Book-1,200,,MainThreadGroup 1-40,text,true,,9263,125,34,34,http://192.168.1.107:8080/books,19,0,0
+1739578538523,19,Show List Form,200,,MainThreadGroup 1-69,text,true,,9270,185,33,33,http://192.168.1.107:8080/books,19,0,1
+1739578538505,41,Update Book,200,,MainThreadGroup 1-44,text,true,,9456,398,33,33,http://192.168.1.107:8080/books,26,0,0
+1739578538505,26,Update Book-0,302,,MainThreadGroup 1-44,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/47,26,0,0
+1739578538531,15,Update Book-1,200,,MainThreadGroup 1-44,text,true,,9270,125,33,33,http://192.168.1.107:8080/books,15,0,0
+1739578538544,6,Show Add Form,200,,MainThreadGroup 1-65,text,true,,842,129,33,33,http://192.168.1.107:8080/books/add,6,0,0
+1739578538575,2,JDBC Request,200,OK,MainThreadGroup 1-57,text,true,,6,0,33,33,null,2,0,0
+1739578538551,28,Add Book POST,200,,MainThreadGroup 1-61,text,true,,9713,389,33,33,http://192.168.1.107:8080/books,15,0,0
+1739578538551,15,Add Book POST-0,302,,MainThreadGroup 1-61,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,15,0,0
+1739578538566,13,Add Book POST-1,200,,MainThreadGroup 1-61,text,true,,9527,125,33,33,http://192.168.1.107:8080/books,12,0,0
+1739578538585,0,Debug Sampler,200,OK,MainThreadGroup 1-53,text,true,,513,0,33,33,null,0,0,0
+1739578538586,9,Show Edit Form,200,,MainThreadGroup 1-49,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/53,9,0,0
+1739578538592,30,Update Book,200,,MainThreadGroup 1-45,text,true,,9720,398,34,34,http://192.168.1.107:8080/books,19,0,0
+1739578538592,19,Update Book-0,302,,MainThreadGroup 1-45,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/49,19,0,0
+1739578538612,10,Update Book-1,200,,MainThreadGroup 1-45,text,true,,9534,125,34,34,http://192.168.1.107:8080/books,9,0,0
+1739578538624,14,Show List Form,200,,MainThreadGroup 1-70,text,true,,9534,185,34,34,http://192.168.1.107:8080/books,14,0,1
+1739578538658,4,Show Add Form,200,,MainThreadGroup 1-66,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,4,0,0
+1739578538653,30,Add Book POST,200,,MainThreadGroup 1-62,text,true,,9977,389,34,34,http://192.168.1.107:8080/books,16,0,0
+1739578538653,16,Add Book POST-0,302,,MainThreadGroup 1-62,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,16,0,0
+1739578538669,14,Add Book POST-1,200,,MainThreadGroup 1-62,text,true,,9791,125,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578538700,1,Debug Sampler,200,OK,MainThreadGroup 1-54,text,true,,513,0,34,34,null,0,0,0
+1739578538698,9,Show Edit Form,200,,MainThreadGroup 1-50,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/54,6,0,0
+1739578538709,2,JDBC Request,200,OK,MainThreadGroup 1-58,text,true,,6,0,35,35,null,2,0,0
+1739578538697,33,Update Book,200,,MainThreadGroup 1-46,text,true,,9984,398,35,35,http://192.168.1.107:8080/books,16,0,0
+1739578538697,16,Update Book-0,302,,MainThreadGroup 1-46,,true,,186,273,35,35,http://192.168.1.107:8080/books/update/50,16,0,0
+1739578538713,17,Update Book-1,200,,MainThreadGroup 1-46,text,true,,9798,125,35,35,http://192.168.1.107:8080/books,17,0,0
+1739578538720,24,Show List Form,200,,MainThreadGroup 1-71,text,true,,9798,185,35,35,http://192.168.1.107:8080/books,24,0,0
+1739578538742,8,Show Add Form,200,,MainThreadGroup 1-67,text,true,,842,129,35,35,http://192.168.1.107:8080/books/add,7,0,0
+1739578538732,25,Delete Book,500,,MainThreadGroup 1-42,text,false,,320,135,35,35,http://192.168.1.107:8080/books/delete/46,24,0,0
+1739578538721,43,Delete Book,200,,MainThreadGroup 1-41,text,true,,9720,260,34,34,http://192.168.1.107:8080/books,20,0,0
+1739578538721,20,Delete Book-0,302,,MainThreadGroup 1-41,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/46,20,0,0
+1739578538741,23,Delete Book-1,200,,MainThreadGroup 1-41,text,true,,9534,125,34,34,http://192.168.1.107:8080/books,23,0,0
+1739578538754,30,Add Book POST,200,,MainThreadGroup 1-63,text,true,,9977,389,33,33,http://192.168.1.107:8080/books,18,0,0
+1739578538754,18,Add Book POST-0,302,,MainThreadGroup 1-63,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,18,0,0
+1739578538772,12,Add Book POST-1,200,,MainThreadGroup 1-63,text,true,,9791,125,33,33,http://192.168.1.107:8080/books,12,0,0
+1739578538787,0,Debug Sampler,200,OK,MainThreadGroup 1-55,text,true,,513,0,33,33,null,0,0,0
+1739578538792,8,Show Edit Form,200,,MainThreadGroup 1-51,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/55,7,0,0
+1739578538799,2,JDBC Request,200,OK,MainThreadGroup 1-59,text,true,,6,0,33,33,null,2,0,0
+1739578538817,12,Show List Form,200,,MainThreadGroup 1-72,text,true,,9791,185,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578538834,15,Delete Book,200,,MainThreadGroup 1-43,text,true,,9977,260,34,34,http://192.168.1.107:8080/books,5,0,0
+1739578538834,5,Delete Book-0,302,,MainThreadGroup 1-43,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/46,5,0,0
+1739578538839,10,Delete Book-1,200,,MainThreadGroup 1-43,text,true,,9791,125,34,34,http://192.168.1.107:8080/books,8,0,0
+1739578538848,5,Show Add Form,200,,MainThreadGroup 1-68,text,true,,842,129,33,33,http://192.168.1.107:8080/books/add,5,0,0
+1739578538856,39,Update Book,200,,MainThreadGroup 1-47,text,true,,10241,398,33,33,http://192.168.1.107:8080/books,22,0,0
+1739578538856,22,Update Book-0,302,,MainThreadGroup 1-47,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/51,22,0,0
+1739578538879,16,Update Book-1,200,,MainThreadGroup 1-47,text,true,,10055,125,33,33,http://192.168.1.107:8080/books,15,0,0
+1739578538867,30,Add Book POST,200,,MainThreadGroup 1-64,text,true,,10241,389,33,33,http://192.168.1.107:8080/books,17,0,0
+1739578538867,17,Add Book POST-0,302,,MainThreadGroup 1-64,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,17,0,0
+1739578538884,13,Add Book POST-1,200,,MainThreadGroup 1-64,text,true,,10055,125,33,33,http://192.168.1.107:8080/books,13,0,0
+1739578538901,0,Debug Sampler,200,OK,MainThreadGroup 1-56,text,true,,513,0,33,33,null,0,0,0
+1739578538901,2,JDBC Request,200,OK,MainThreadGroup 1-60,text,true,,6,0,33,33,null,2,0,0
+1739578538913,9,Show Edit Form,200,,MainThreadGroup 1-52,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/56,9,0,0
+1739578538915,12,Show List Form,200,,MainThreadGroup 1-73,text,true,,10055,185,34,34,http://192.168.1.107:8080/books,11,0,1
+1739578538943,6,Show Add Form,200,,MainThreadGroup 1-69,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,4,0,0
+1739578538927,46,Update Book,200,,MainThreadGroup 1-48,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,17,0,0
+1739578538927,17,Update Book-0,302,,MainThreadGroup 1-48,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/52,17,0,0
+1739578538944,29,Update Book-1,200,,MainThreadGroup 1-48,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,29,0,0
+1739578538980,1,Debug Sampler,200,OK,MainThreadGroup 1-57,text,true,,513,0,34,34,null,0,0,0
+1739578538981,3,JDBC Request,200,OK,MainThreadGroup 1-61,text,true,,6,0,34,34,null,3,0,0
+1739578538947,44,Delete Book,200,,MainThreadGroup 1-44,text,true,,9984,260,34,34,http://192.168.1.107:8080/books,19,0,0
+1739578538947,19,Delete Book-0,302,,MainThreadGroup 1-44,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/47,19,0,0
+1739578538967,24,Delete Book-1,200,,MainThreadGroup 1-44,text,true,,9798,125,34,34,http://192.168.1.107:8080/books,23,0,0
+1739578538986,14,Show Edit Form,200,,MainThreadGroup 1-53,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/57,14,0,0
+1739578538951,60,Add Book POST,200,,MainThreadGroup 1-65,text,true,,10241,389,34,34,http://192.168.1.107:8080/books,28,0,0
+1739578538951,28,Add Book POST-0,302,,MainThreadGroup 1-65,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,28,0,0
+1739578538979,32,Add Book POST-1,200,,MainThreadGroup 1-65,text,true,,10055,125,34,34,http://192.168.1.107:8080/books,31,0,0
+1739578539040,8,Show Add Form,200,,MainThreadGroup 1-70,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,8,0,0
+1739578539016,43,Show List Form,200,,MainThreadGroup 1-74,text,true,,10062,185,34,34,http://192.168.1.107:8080/books,42,0,0
+1739578538996,69,Update Book,200,,MainThreadGroup 1-49,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,27,0,0
+1739578538996,27,Update Book-0,302,,MainThreadGroup 1-49,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/53,27,0,0
+1739578539024,41,Update Book-1,200,,MainThreadGroup 1-49,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,41,0,0
+1739578539085,7,JDBC Request,200,OK,MainThreadGroup 1-62,text,true,,6,0,34,34,null,7,0,0
+1739578539025,74,Delete Book,200,,MainThreadGroup 1-45,text,true,,10241,260,34,34,http://192.168.1.107:8080/books,51,0,0
+1739578539025,51,Delete Book-0,302,,MainThreadGroup 1-45,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/49,51,0,0
+1739578539077,22,Delete Book-1,200,,MainThreadGroup 1-45,text,true,,10055,125,34,34,http://192.168.1.107:8080/books,22,0,0
+1739578539102,7,Show Edit Form,200,,MainThreadGroup 1-54,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/58,7,0,0
+1739578539112,1,Debug Sampler,200,OK,MainThreadGroup 1-58,text,true,,513,0,34,34,null,0,0,0
+1739578539064,49,Add Book POST,200,,MainThreadGroup 1-66,text,true,,10241,389,34,34,http://192.168.1.107:8080/books,29,0,0
+1739578539064,29,Add Book POST-0,302,,MainThreadGroup 1-66,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,29,0,0
+1739578539093,20,Add Book POST-1,200,,MainThreadGroup 1-66,text,true,,10055,125,34,34,http://192.168.1.107:8080/books,20,0,0
+1739578539113,21,Show List Form,200,,MainThreadGroup 1-75,text,true,,10055,185,34,34,http://192.168.1.107:8080/books,21,0,2
+1739578539144,6,Show Add Form,200,,MainThreadGroup 1-71,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,5,0,0
+1739578539108,45,Update Book,200,,MainThreadGroup 1-50,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,20,0,0
+1739578539108,20,Update Book-0,302,,MainThreadGroup 1-50,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/54,20,0,0
+1739578539128,25,Update Book-1,200,,MainThreadGroup 1-50,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,24,0,0
+1739578539134,43,Delete Book,200,,MainThreadGroup 1-46,text,true,,9984,260,34,34,http://192.168.1.107:8080/books,22,0,0
+1739578539134,22,Delete Book-0,302,,MainThreadGroup 1-46,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/50,22,0,0
+1739578539156,21,Delete Book-1,200,,MainThreadGroup 1-46,text,true,,9798,125,34,34,http://192.168.1.107:8080/books,21,0,0
+1739578539152,33,Add Book POST,200,,MainThreadGroup 1-67,text,true,,10241,389,33,33,http://192.168.1.107:8080/books,16,0,0
+1739578539152,16,Add Book POST-0,302,,MainThreadGroup 1-67,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,16,0,0
+1739578539169,16,Add Book POST-1,200,,MainThreadGroup 1-67,text,true,,10055,125,33,33,http://192.168.1.107:8080/books,15,0,0
+1739578539186,1,JDBC Request,200,OK,MainThreadGroup 1-63,text,true,,6,0,33,33,null,1,0,0
+1739578539187,6,Show Edit Form,200,,MainThreadGroup 1-55,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/59,6,0,0
+1739578539203,0,Debug Sampler,200,OK,MainThreadGroup 1-59,text,true,,513,0,34,34,null,0,0,0
+1739578539208,18,Show List Form,200,,MainThreadGroup 1-76,text,true,,10062,185,34,34,http://192.168.1.107:8080/books,18,0,1
+1739578539202,28,Update Book,200,,MainThreadGroup 1-51,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578539202,14,Update Book-0,302,,MainThreadGroup 1-51,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/55,14,0,0
+1739578539217,13,Update Book-1,200,,MainThreadGroup 1-51,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578539232,2,Show Add Form,200,,MainThreadGroup 1-72,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,2,0,0
+1739578539254,24,Add Book POST,200,,MainThreadGroup 1-68,text,true,,10505,389,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578539254,13,Add Book POST-0,302,,MainThreadGroup 1-68,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,13,0,0
+1739578539267,11,Add Book POST-1,200,,MainThreadGroup 1-68,text,true,,10319,125,34,34,http://192.168.1.107:8080/books,11,0,0
+1739578539298,2,JDBC Request,200,OK,MainThreadGroup 1-64,text,true,,6,0,35,35,null,2,0,0
+1739578539305,2,Debug Sampler,200,OK,MainThreadGroup 1-60,text,true,,513,0,35,35,null,0,0,0
+1739578539303,12,Show Edit Form,200,,MainThreadGroup 1-56,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/60,11,0,0
+1739578539308,16,Show List Form,200,,MainThreadGroup 1-77,text,true,,10055,185,35,35,http://192.168.1.107:8080/books,15,0,3
+1739578539295,37,Delete Book,200,,MainThreadGroup 1-47,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,20,0,0
+1739578539295,20,Delete Book-0,302,,MainThreadGroup 1-47,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/51,20,0,0
+1739578539315,17,Delete Book-1,200,,MainThreadGroup 1-47,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,16,0,0
+1739578539328,8,Show Add Form,200,,MainThreadGroup 1-73,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,7,0,0
+1739578539323,45,Update Book,200,,MainThreadGroup 1-52,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,22,0,0
+1739578539323,22,Update Book-0,302,,MainThreadGroup 1-52,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/56,22,0,0
+1739578539345,23,Update Book-1,200,,MainThreadGroup 1-52,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,21,0,0
+1739578539349,29,Add Book POST,200,,MainThreadGroup 1-69,text,true,,10505,389,34,34,http://192.168.1.107:8080/books,17,0,0
+1739578539349,17,Add Book POST-0,302,,MainThreadGroup 1-69,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,17,0,0
+1739578539367,11,Add Book POST-1,200,,MainThreadGroup 1-69,text,true,,10319,125,34,34,http://192.168.1.107:8080/books,11,0,0
+1739578539386,0,Debug Sampler,200,OK,MainThreadGroup 1-61,text,true,,513,0,34,34,null,0,0,0
+1739578539382,16,Show Edit Form,200,,MainThreadGroup 1-57,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/61,16,0,0
+1739578539377,33,Delete Book,200,,MainThreadGroup 1-48,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,18,0,0
+1739578539377,18,Delete Book-0,302,,MainThreadGroup 1-48,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/52,18,0,0
+1739578539396,14,Delete Book-1,200,,MainThreadGroup 1-48,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,13,0,0
+1739578539412,4,JDBC Request,200,OK,MainThreadGroup 1-65,text,true,,6,0,34,34,null,4,0,0
+1739578539410,16,Show List Form,200,,MainThreadGroup 1-78,text,true,,10055,185,34,34,http://192.168.1.107:8080/books,16,0,1
+1739578539401,33,Update Book,200,,MainThreadGroup 1-53,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,21,0,0
+1739578539401,21,Update Book-0,302,,MainThreadGroup 1-53,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/57,21,0,0
+1739578539422,12,Update Book-1,200,,MainThreadGroup 1-53,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578539460,4,Show Add Form,200,,MainThreadGroup 1-74,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,4,0,0
+1739578539448,29,Add Book POST,200,,MainThreadGroup 1-70,text,true,,10505,389,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578539448,12,Add Book POST-0,302,,MainThreadGroup 1-70,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,12,0,0
+1739578539460,17,Add Book POST-1,200,,MainThreadGroup 1-70,text,true,,10319,125,34,34,http://192.168.1.107:8080/books,16,0,0
+1739578539467,27,Delete Book,200,,MainThreadGroup 1-49,text,true,,10241,260,34,34,http://192.168.1.107:8080/books,17,0,0
+1739578539467,17,Delete Book-0,302,,MainThreadGroup 1-49,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/53,17,0,0
+1739578539484,10,Delete Book-1,200,,MainThreadGroup 1-49,text,true,,10055,125,34,34,http://192.168.1.107:8080/books,10,0,0
+1739578539495,1,Debug Sampler,200,OK,MainThreadGroup 1-62,text,true,,513,0,34,34,null,0,0,0
+1739578539514,2,JDBC Request,200,OK,MainThreadGroup 1-66,text,true,,6,0,34,34,null,2,0,0
+1739578539513,11,Show Edit Form,200,,MainThreadGroup 1-58,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/62,11,0,0
+1739578539504,26,Show List Form,200,,MainThreadGroup 1-79,text,true,,10055,185,34,34,http://192.168.1.107:8080/books,24,0,1
+1739578539535,8,Show Add Form,200,,MainThreadGroup 1-75,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,7,0,0
+1739578539512,40,Update Book,200,,MainThreadGroup 1-54,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,26,0,0
+1739578539512,26,Update Book-0,302,,MainThreadGroup 1-54,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/58,26,0,0
+1739578539538,14,Update Book-1,200,,MainThreadGroup 1-54,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578539552,39,Add Book POST,200,,MainThreadGroup 1-71,text,true,,10241,389,34,34,http://192.168.1.107:8080/books,22,0,0
+1739578539552,22,Add Book POST-0,302,,MainThreadGroup 1-71,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,22,0,0
+1739578539575,16,Add Book POST-1,200,,MainThreadGroup 1-71,text,true,,10055,125,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578539592,0,Debug Sampler,200,OK,MainThreadGroup 1-63,text,true,,513,0,35,35,null,0,0,0
+1739578539592,2,JDBC Request,200,OK,MainThreadGroup 1-67,text,true,,6,0,35,35,null,2,0,0
+1739578539555,40,Delete Book,200,,MainThreadGroup 1-50,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,24,0,0
+1739578539555,24,Delete Book-0,302,,MainThreadGroup 1-50,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/54,24,0,0
+1739578539579,16,Delete Book-1,200,,MainThreadGroup 1-50,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,15,0,0
+1739578539604,13,Show Edit Form,200,,MainThreadGroup 1-59,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/63,13,0,0
+1739578539601,21,Show List Form,200,,MainThreadGroup 1-80,text,true,,10062,185,34,34,http://192.168.1.107:8080/books,21,0,2
+1739578539593,36,Update Book,200,,MainThreadGroup 1-55,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,18,0,0
+1739578539593,18,Update Book-0,302,,MainThreadGroup 1-55,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/59,18,0,0
+1739578539611,18,Update Book-1,200,,MainThreadGroup 1-55,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,17,0,0
+1739578539628,4,Show Add Form,200,,MainThreadGroup 1-76,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,4,0,0
+1739578539632,35,Delete Book,200,,MainThreadGroup 1-51,text,true,,10241,260,34,34,http://192.168.1.107:8080/books,20,0,0
+1739578539632,20,Delete Book-0,302,,MainThreadGroup 1-51,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/55,20,0,0
+1739578539652,15,Delete Book-1,200,,MainThreadGroup 1-51,text,true,,10055,125,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578539635,36,Add Book POST,200,,MainThreadGroup 1-72,text,true,,10241,389,33,33,http://192.168.1.107:8080/books,23,0,0
+1739578539635,23,Add Book POST-0,302,,MainThreadGroup 1-72,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,23,0,0
+1739578539659,12,Add Book POST-1,200,,MainThreadGroup 1-72,text,true,,10055,125,33,33,http://192.168.1.107:8080/books,12,0,0
+1739578539679,2,JDBC Request,200,OK,MainThreadGroup 1-68,text,true,,6,0,33,33,null,2,0,0
+1739578539703,0,Debug Sampler,200,OK,MainThreadGroup 1-64,text,true,,513,0,34,34,null,0,0,0
+1739578539702,10,Show List Form,200,,MainThreadGroup 1-81,text,true,,10055,185,34,34,http://192.168.1.107:8080/books,10,0,0
+1739578539708,18,Show Edit Form,200,,MainThreadGroup 1-60,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/64,18,0,0
+1739578539725,4,Show Add Form,200,,MainThreadGroup 1-77,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,3,0,0
+1739578539716,50,Update Book,200,,MainThreadGroup 1-56,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,29,0,0
+1739578539716,29,Update Book-0,302,,MainThreadGroup 1-56,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/60,29,0,0
+1739578539746,20,Update Book-1,200,,MainThreadGroup 1-56,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,19,0,0
+1739578539736,41,Add Book POST,200,,MainThreadGroup 1-73,text,true,,10505,389,34,34,http://192.168.1.107:8080/books,23,0,0
+1739578539736,23,Add Book POST-0,302,,MainThreadGroup 1-73,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,23,0,0
+1739578539759,18,Add Book POST-1,200,,MainThreadGroup 1-73,text,true,,10319,125,34,34,http://192.168.1.107:8080/books,17,0,0
+1739578539780,6,JDBC Request,200,OK,MainThreadGroup 1-69,text,true,,6,0,34,34,null,5,0,0
+1739578539787,14,Show Edit Form,200,,MainThreadGroup 1-61,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/65,14,0,0
+1739578539769,42,Delete Book,200,,MainThreadGroup 1-52,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,19,0,0
+1739578539769,19,Delete Book-0,302,,MainThreadGroup 1-52,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/56,19,0,0
+1739578539788,23,Delete Book-1,200,,MainThreadGroup 1-52,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,20,0,0
+1739578539802,16,Show List Form,200,,MainThreadGroup 1-82,text,true,,10055,185,34,34,http://192.168.1.107:8080/books,15,0,1
+1739578539817,2,Debug Sampler,200,OK,MainThreadGroup 1-65,text,true,,513,0,34,34,null,0,0,0
+1739578539828,5,Show Add Form,200,,MainThreadGroup 1-78,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,4,0,0
+1739578539800,37,Update Book,200,,MainThreadGroup 1-57,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,21,0,0
+1739578539800,21,Update Book-0,302,,MainThreadGroup 1-57,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/61,21,0,0
+1739578539821,16,Update Book-1,200,,MainThreadGroup 1-57,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,16,0,0
+1739578539835,34,Delete Book,200,,MainThreadGroup 1-53,text,true,,9984,260,34,34,http://192.168.1.107:8080/books,20,0,0
+1739578539835,20,Delete Book-0,302,,MainThreadGroup 1-53,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/57,20,0,0
+1739578539855,14,Delete Book-1,200,,MainThreadGroup 1-53,text,true,,9798,125,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578539878,3,JDBC Request,200,OK,MainThreadGroup 1-70,text,true,,6,0,33,33,null,2,0,0
+1739578539866,26,Add Book POST,200,,MainThreadGroup 1-74,text,true,,10241,389,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578539866,12,Add Book POST-0,302,,MainThreadGroup 1-74,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,12,0,0
+1739578539878,14,Add Book POST-1,200,,MainThreadGroup 1-74,text,true,,10055,125,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578539898,8,Show Edit Form,200,,MainThreadGroup 1-62,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/66,8,0,0
+1739578539896,13,Show List Form,200,,MainThreadGroup 1-83,text,true,,10055,185,34,34,http://192.168.1.107:8080/books,13,0,1
+1739578539917,0,Debug Sampler,200,OK,MainThreadGroup 1-66,text,true,,513,0,34,34,null,0,0,0
+1739578539931,2,Show Add Form,200,,MainThreadGroup 1-79,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,2,0,0
+1739578539925,38,Update Book,200,,MainThreadGroup 1-58,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578539925,14,Update Book-0,302,,MainThreadGroup 1-58,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/62,14,0,0
+1739578539939,24,Update Book-1,200,,MainThreadGroup 1-58,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,21,0,0
+1739578539944,40,Add Book POST,200,,MainThreadGroup 1-75,text,true,,10241,389,35,35,http://192.168.1.107:8080/books,20,0,0
+1739578539944,20,Add Book POST-0,302,,MainThreadGroup 1-75,,true,,186,264,35,35,http://192.168.1.107:8080/books/add,20,0,0
+1739578539964,20,Add Book POST-1,200,,MainThreadGroup 1-75,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,20,0,0
+1739578539953,37,Delete Book,200,,MainThreadGroup 1-54,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,22,0,0
+1739578539953,22,Delete Book-0,302,,MainThreadGroup 1-54,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/58,22,0,0
+1739578539975,15,Delete Book-1,200,,MainThreadGroup 1-54,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,14,0,0
+1739578539991,2,JDBC Request,200,OK,MainThreadGroup 1-71,text,true,,6,0,34,34,null,2,0,0
+1739578539997,0,Debug Sampler,200,OK,MainThreadGroup 1-67,text,true,,513,0,34,34,null,0,0,0
+1739578539992,11,Show Edit Form,200,,MainThreadGroup 1-63,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/67,11,0,0
+1739578539993,16,Show List Form,200,,MainThreadGroup 1-84,text,true,,10055,185,34,34,http://192.168.1.107:8080/books,15,0,0
+1739578540023,4,Show Add Form,200,,MainThreadGroup 1-80,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,4,0,0
+1739578540017,41,Update Book,200,,MainThreadGroup 1-59,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,17,0,0
+1739578540017,17,Update Book-0,302,,MainThreadGroup 1-59,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/63,17,0,0
+1739578540034,24,Update Book-1,200,,MainThreadGroup 1-59,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,24,0,0
+1739578540033,35,Add Book POST,200,,MainThreadGroup 1-76,text,true,,10505,389,34,34,http://192.168.1.107:8080/books,19,0,0
+1739578540033,19,Add Book POST-0,302,,MainThreadGroup 1-76,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,19,0,0
+1739578540053,15,Add Book POST-1,200,,MainThreadGroup 1-76,text,true,,10319,125,34,34,http://192.168.1.107:8080/books,15,0,0
+1739578540030,43,Delete Book,200,,MainThreadGroup 1-55,text,true,,10241,260,34,34,http://192.168.1.107:8080/books,33,0,0
+1739578540030,33,Delete Book-0,302,,MainThreadGroup 1-55,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/59,33,0,0
+1739578540064,9,Delete Book-1,200,,MainThreadGroup 1-55,text,true,,10055,125,34,34,http://192.168.1.107:8080/books,9,0,0
+1739578540075,2,JDBC Request,200,OK,MainThreadGroup 1-72,text,true,,6,0,34,34,null,1,0,0
+1739578540081,0,Debug Sampler,200,OK,MainThreadGroup 1-68,text,true,,513,0,34,34,null,0,0,0
+1739578540091,14,Show List Form,200,,MainThreadGroup 1-85,text,true,,10055,185,34,34,http://192.168.1.107:8080/books,14,0,1
+1739578540104,9,Show Edit Form,200,,MainThreadGroup 1-64,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/68,9,0,0
+1739578540113,2,Show Add Form,200,,MainThreadGroup 1-81,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,2,0,0
+1739578540127,32,Update Book,200,,MainThreadGroup 1-60,text,true,,10505,398,34,34,http://192.168.1.107:8080/books,19,0,0
+1739578540127,19,Update Book-0,302,,MainThreadGroup 1-60,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/64,19,0,0
+1739578540146,13,Update Book-1,200,,MainThreadGroup 1-60,text,true,,10319,125,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578540130,34,Add Book POST,200,,MainThreadGroup 1-77,text,true,,10505,389,34,34,http://192.168.1.107:8080/books,19,0,0
+1739578540130,19,Add Book POST-0,302,,MainThreadGroup 1-77,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,19,0,0
+1739578540149,15,Add Book POST-1,200,,MainThreadGroup 1-77,text,true,,10319,125,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578540178,4,JDBC Request,200,OK,MainThreadGroup 1-73,text,true,,6,0,35,35,null,3,0,0
+1739578540187,0,Debug Sampler,200,OK,MainThreadGroup 1-69,text,true,,513,0,35,35,null,0,0,0
+1739578540166,31,Delete Book,200,,MainThreadGroup 1-56,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,12,0,0
+1739578540166,12,Delete Book-0,302,,MainThreadGroup 1-56,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/60,12,0,0
+1739578540179,18,Delete Book-1,200,,MainThreadGroup 1-56,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,17,0,0
+1739578540188,14,Show List Form,200,,MainThreadGroup 1-86,text,true,,10055,185,34,34,http://192.168.1.107:8080/books,14,0,1
+1739578540218,5,Show Add Form,200,,MainThreadGroup 1-82,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,5,0,0
+1739578540220,12,Show Edit Form,200,,MainThreadGroup 1-65,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/69,12,0,0
+1739578540202,33,Update Book,200,,MainThreadGroup 1-61,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578540202,14,Update Book-0,302,,MainThreadGroup 1-61,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/65,14,0,0
+1739578540217,18,Update Book-1,200,,MainThreadGroup 1-61,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,18,0,0
+1739578540233,36,Add Book POST,200,,MainThreadGroup 1-78,text,true,,10241,389,35,35,http://192.168.1.107:8080/books,22,0,0
+1739578540233,22,Add Book POST-0,302,,MainThreadGroup 1-78,,true,,186,264,35,35,http://192.168.1.107:8080/books/add,22,0,0
+1739578540255,14,Add Book POST-1,200,,MainThreadGroup 1-78,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,13,0,0
+1739578540237,32,Delete Book,200,,MainThreadGroup 1-57,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,17,0,0
+1739578540237,17,Delete Book-0,302,,MainThreadGroup 1-57,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/61,17,0,0
+1739578540255,14,Delete Book-1,200,,MainThreadGroup 1-57,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,14,0,0
+1739578540283,1,Debug Sampler,200,OK,MainThreadGroup 1-70,text,true,,513,0,34,34,null,0,0,0
+1739578540293,1,JDBC Request,200,OK,MainThreadGroup 1-74,text,true,,6,0,34,34,null,1,0,0
+1739578540286,13,Show List Form,200,,MainThreadGroup 1-87,text,true,,10055,185,34,34,http://192.168.1.107:8080/books,13,0,1
+1739578540310,3,Show Add Form,200,,MainThreadGroup 1-83,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,3,0,0
+1739578540318,9,Show Edit Form,200,,MainThreadGroup 1-66,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/70,9,0,0
+1739578540309,36,Update Book,200,,MainThreadGroup 1-62,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,21,0,0
+1739578540309,21,Update Book-0,302,,MainThreadGroup 1-62,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/66,21,0,0
+1739578540330,15,Update Book-1,200,,MainThreadGroup 1-62,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578540334,24,Add Book POST,200,,MainThreadGroup 1-79,text,true,,10505,389,34,34,http://192.168.1.107:8080/books,14,0,0
+1739578540334,14,Add Book POST-0,302,,MainThreadGroup 1-79,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,14,0,0
+1739578540348,10,Add Book POST-1,200,,MainThreadGroup 1-79,text,true,,10319,125,34,34,http://192.168.1.107:8080/books,10,0,0
+1739578540386,1,JDBC Request,200,OK,MainThreadGroup 1-75,text,true,,6,0,35,35,null,1,0,0
+1739578540364,24,Delete Book,200,,MainThreadGroup 1-58,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,13,0,0
+1739578540364,13,Delete Book-0,302,,MainThreadGroup 1-58,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/62,13,0,0
+1739578540377,11,Delete Book-1,200,,MainThreadGroup 1-58,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,11,0,0
+1739578540382,12,Show List Form,200,,MainThreadGroup 1-88,text,true,,10055,185,34,34,http://192.168.1.107:8080/books,12,0,1
+1739578540396,0,Debug Sampler,200,OK,MainThreadGroup 1-71,text,true,,513,0,34,34,null,0,0,0
+1739578540399,8,Show Edit Form,200,,MainThreadGroup 1-67,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/71,8,0,0
+1739578540409,6,Show Add Form,200,,MainThreadGroup 1-84,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,6,0,0
+1739578540404,29,Update Book,200,,MainThreadGroup 1-63,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,17,0,0
+1739578540404,17,Update Book-0,302,,MainThreadGroup 1-63,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/67,17,0,0
+1739578540421,12,Update Book-1,200,,MainThreadGroup 1-63,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578540428,32,Add Book POST,200,,MainThreadGroup 1-80,text,true,,10505,389,35,35,http://192.168.1.107:8080/books,17,0,0
+1739578540428,17,Add Book POST-0,302,,MainThreadGroup 1-80,,true,,186,264,35,35,http://192.168.1.107:8080/books/add,17,0,0
+1739578540446,14,Add Book POST-1,200,,MainThreadGroup 1-80,text,true,,10319,125,35,35,http://192.168.1.107:8080/books,13,0,0
+1739578540469,2,JDBC Request,200,OK,MainThreadGroup 1-76,text,true,,6,0,35,35,null,2,0,0
+1739578540478,0,Debug Sampler,200,OK,MainThreadGroup 1-72,text,true,,513,0,35,35,null,0,0,0
+1739578540484,8,Show Edit Form,200,,MainThreadGroup 1-68,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/72,8,0,0
+1739578540480,14,Show List Form,200,,MainThreadGroup 1-89,text,true,,10055,185,35,35,http://192.168.1.107:8080/books,14,0,2
+1739578540461,44,Delete Book,200,,MainThreadGroup 1-59,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,23,0,0
+1739578540461,23,Delete Book-0,302,,MainThreadGroup 1-59,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/63,23,0,0
+1739578540484,21,Delete Book-1,200,,MainThreadGroup 1-59,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,20,0,0
+1739578540506,5,Show Add Form,200,,MainThreadGroup 1-85,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,4,0,0
+1739578540516,31,Add Book POST,200,,MainThreadGroup 1-81,text,true,,10505,389,34,34,http://192.168.1.107:8080/books,19,0,0
+1739578540516,19,Add Book POST-0,302,,MainThreadGroup 1-81,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,19,0,0
+1739578540537,10,Add Book POST-1,200,,MainThreadGroup 1-81,text,true,,10319,125,34,34,http://192.168.1.107:8080/books,10,0,0
+1739578540515,32,Update Book,200,,MainThreadGroup 1-64,text,true,,10505,398,34,34,http://192.168.1.107:8080/books,20,0,0
+1739578540515,20,Update Book-0,302,,MainThreadGroup 1-64,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/68,20,0,0
+1739578540535,12,Update Book-1,200,,MainThreadGroup 1-64,text,true,,10319,125,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578540564,3,JDBC Request,200,OK,MainThreadGroup 1-77,text,true,,6,0,35,35,null,3,0,1
+1739578540583,0,Debug Sampler,200,OK,MainThreadGroup 1-73,text,true,,512,0,35,35,null,0,0,0
+1739578540573,18,Show List Form,200,,MainThreadGroup 1-90,text,true,,10055,185,35,35,http://192.168.1.107:8080/books,18,0,1
+1739578540562,34,Delete Book,200,,MainThreadGroup 1-60,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,22,0,0
+1739578540562,22,Delete Book-0,302,,MainThreadGroup 1-60,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/64,22,0,0
+1739578540585,11,Delete Book-1,200,,MainThreadGroup 1-60,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,10,0,0
+1739578540592,9,Show Edit Form,200,,MainThreadGroup 1-69,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/73,9,0,0
+1739578540602,3,Show Add Form,200,,MainThreadGroup 1-86,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,3,0,0
+1739578540625,35,Add Book POST,200,,MainThreadGroup 1-82,text,true,,10498,389,35,35,http://192.168.1.107:8080/books,14,0,0
+1739578540625,14,Add Book POST-0,302,,MainThreadGroup 1-82,,true,,186,264,35,35,http://192.168.1.107:8080/books/add,14,0,0
+1739578540640,20,Add Book POST-1,200,,MainThreadGroup 1-82,text,true,,10312,125,35,35,http://192.168.1.107:8080/books,18,0,0
+1739578540671,6,JDBC Request,200,OK,MainThreadGroup 1-78,text,true,,6,0,35,35,null,3,0,0
+1739578540636,45,Delete Book,200,,MainThreadGroup 1-61,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,23,0,0
+1739578540636,23,Delete Book-0,302,,MainThreadGroup 1-61,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/65,23,0,0
+1739578540659,22,Delete Book-1,200,,MainThreadGroup 1-61,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,21,0,0
+1739578540634,49,Update Book,200,,MainThreadGroup 1-65,text,true,,10241,398,35,35,http://192.168.1.107:8080/books,26,0,0
+1739578540634,26,Update Book-0,302,,MainThreadGroup 1-65,,true,,186,273,35,35,http://192.168.1.107:8080/books/update/69,26,0,0
+1739578540660,23,Update Book-1,200,,MainThreadGroup 1-65,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,23,0,0
+1739578540669,21,Show List Form,200,,MainThreadGroup 1-91,text,true,,10055,185,34,34,http://192.168.1.107:8080/books,18,0,2
+1739578540695,1,Debug Sampler,200,OK,MainThreadGroup 1-74,text,true,,513,0,34,34,null,0,0,0
+1739578540688,10,Show Edit Form,200,,MainThreadGroup 1-70,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/74,10,0,0
+1739578540700,3,Show Add Form,200,,MainThreadGroup 1-87,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,3,0,0
+1739578540715,34,Add Book POST,200,,MainThreadGroup 1-83,text,true,,10498,389,35,35,http://192.168.1.107:8080/books,14,0,0
+1739578540715,14,Add Book POST-0,302,,MainThreadGroup 1-83,,true,,186,264,35,35,http://192.168.1.107:8080/books/add,14,0,0
+1739578540730,19,Add Book POST-1,200,,MainThreadGroup 1-83,text,true,,10312,125,35,35,http://192.168.1.107:8080/books,19,0,0
+1739578540759,3,JDBC Request,200,OK,MainThreadGroup 1-79,text,true,,6,0,35,35,null,3,0,0
+1739578540729,50,Update Book,200,,MainThreadGroup 1-66,text,true,,10505,398,35,35,http://192.168.1.107:8080/books,24,0,0
+1739578540729,24,Update Book-0,302,,MainThreadGroup 1-66,,true,,186,273,35,35,http://192.168.1.107:8080/books/update/70,24,0,0
+1739578540753,26,Update Book-1,200,,MainThreadGroup 1-66,text,true,,10319,125,35,35,http://192.168.1.107:8080/books,26,0,0
+1739578540767,16,Show List Form,200,,MainThreadGroup 1-92,text,true,,10055,185,35,35,http://192.168.1.107:8080/books,15,0,1
+1739578540746,37,Delete Book,200,,MainThreadGroup 1-62,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,24,0,0
+1739578540746,24,Delete Book-0,302,,MainThreadGroup 1-62,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/66,24,0,0
+1739578540770,13,Delete Book-1,200,,MainThreadGroup 1-62,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,13,0,0
+1739578540788,0,Debug Sampler,200,OK,MainThreadGroup 1-75,text,true,,513,0,34,34,null,0,0,0
+1739578540796,4,Show Add Form,200,,MainThreadGroup 1-88,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,4,0,0
+1739578540797,7,Show Edit Form,200,,MainThreadGroup 1-71,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/75,7,0,0
+1739578540808,46,Update Book,200,,MainThreadGroup 1-67,text,true,,10248,398,35,35,http://192.168.1.107:8080/books,21,0,0
+1739578540808,21,Update Book-0,302,,MainThreadGroup 1-67,,true,,186,273,35,35,http://192.168.1.107:8080/books/update/71,21,0,0
+1739578540829,25,Update Book-1,200,,MainThreadGroup 1-67,text,true,,10062,125,35,35,http://192.168.1.107:8080/books,24,0,0
+1739578540815,46,Add Book POST,200,,MainThreadGroup 1-84,text,true,,10505,389,35,35,http://192.168.1.107:8080/books,31,0,0
+1739578540815,31,Add Book POST-0,302,,MainThreadGroup 1-84,,true,,186,264,35,35,http://192.168.1.107:8080/books/add,31,0,0
+1739578540846,15,Add Book POST-1,200,,MainThreadGroup 1-84,text,true,,10319,125,35,35,http://192.168.1.107:8080/books,15,0,0
+1739578540861,3,JDBC Request,200,OK,MainThreadGroup 1-80,text,true,,6,0,35,35,null,3,0,0
+1739578540872,0,Debug Sampler,200,OK,MainThreadGroup 1-76,text,true,,513,0,35,35,null,0,0,0
+1739578540859,20,Show List Form,200,,MainThreadGroup 1-93,text,true,,10055,185,35,35,http://192.168.1.107:8080/books,19,0,1
+1739578540835,47,Delete Book,200,,MainThreadGroup 1-63,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,25,0,0
+1739578540835,25,Delete Book-0,302,,MainThreadGroup 1-63,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/67,25,0,0
+1739578540861,21,Delete Book-1,200,,MainThreadGroup 1-63,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,21,0,0
+1739578540878,12,Show Edit Form,200,,MainThreadGroup 1-72,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/76,11,0,0
+1739578540895,5,Show Add Form,200,,MainThreadGroup 1-89,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,4,0,0
+1739578540892,39,Update Book,200,,MainThreadGroup 1-68,text,true,,10248,398,34,34,http://192.168.1.107:8080/books,16,0,0
+1739578540892,16,Update Book-0,302,,MainThreadGroup 1-68,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/72,16,0,0
+1739578540908,23,Update Book-1,200,,MainThreadGroup 1-68,text,true,,10062,125,34,34,http://192.168.1.107:8080/books,21,0,0
+1739578540912,34,Add Book POST,200,,MainThreadGroup 1-85,text,true,,10505,389,35,35,http://192.168.1.107:8080/books,17,0,0
+1739578540912,17,Add Book POST-0,302,,MainThreadGroup 1-85,,true,,186,264,35,35,http://192.168.1.107:8080/books/add,17,0,0
+1739578540930,16,Add Book POST-1,200,,MainThreadGroup 1-85,text,true,,10319,125,35,35,http://192.168.1.107:8080/books,15,0,0
+1739578540948,2,JDBC Request,200,OK,MainThreadGroup 1-81,text,true,,6,0,35,35,null,2,0,0
+1739578540968,0,Debug Sampler,200,OK,MainThreadGroup 1-77,text,true,,513,0,35,35,null,0,0,0
+1739578540957,18,Show List Form,200,,MainThreadGroup 1-94,text,true,,10055,185,35,35,http://192.168.1.107:8080/books,18,0,2
+1739578540948,32,Delete Book,200,,MainThreadGroup 1-64,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,14,0,0
+1739578540948,14,Delete Book-0,302,,MainThreadGroup 1-64,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/68,14,0,0
+1739578540963,17,Delete Book-1,200,,MainThreadGroup 1-64,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,17,0,0
+1739578540984,6,Show Edit Form,200,,MainThreadGroup 1-73,text,true,,899,133,34,34,http://192.168.1.107:8080/books/edit/77,6,0,0
+1739578540993,4,Show Add Form,200,,MainThreadGroup 1-90,text,true,,842,129,34,34,http://192.168.1.107:8080/books/add,3,0,0
+1739578541003,32,Update Book,200,,MainThreadGroup 1-69,text,true,,10505,398,35,35,http://192.168.1.107:8080/books,14,0,0
+1739578541003,14,Update Book-0,302,,MainThreadGroup 1-69,,true,,186,273,35,35,http://192.168.1.107:8080/books/update/73,14,0,0
+1739578541017,18,Update Book-1,200,,MainThreadGroup 1-69,text,true,,10319,125,35,35,http://192.168.1.107:8080/books,17,0,0
+1739578541005,32,Add Book POST,200,,MainThreadGroup 1-86,text,true,,10505,389,35,35,http://192.168.1.107:8080/books,16,0,0
+1739578541005,16,Add Book POST-0,302,,MainThreadGroup 1-86,,true,,186,264,35,35,http://192.168.1.107:8080/books/add,16,0,0
+1739578541022,15,Add Book POST-1,200,,MainThreadGroup 1-86,text,true,,10319,125,35,35,http://192.168.1.107:8080/books,14,0,0
+1739578541061,2,JDBC Request,200,OK,MainThreadGroup 1-82,text,true,,6,0,35,35,null,2,0,0
+1739578541054,11,Show List Form,200,,MainThreadGroup 1-95,text,true,,10319,185,35,35,http://192.168.1.107:8080/books,11,0,0
+1739578541077,1,Debug Sampler,200,OK,MainThreadGroup 1-78,text,true,,513,0,35,35,null,0,0,0
+1739578541091,4,Show Add Form,200,,MainThreadGroup 1-91,text,true,,842,129,35,35,http://192.168.1.107:8080/books/add,4,0,0
+1739578541096,17,Show Edit Form,200,,MainThreadGroup 1-74,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/78,16,0,0
+1739578541085,51,Delete Book,200,,MainThreadGroup 1-65,text,true,,10241,260,36,36,http://192.168.1.107:8080/books,13,0,0
+1739578541085,13,Delete Book-0,302,,MainThreadGroup 1-65,,true,,186,135,36,36,http://192.168.1.107:8080/books/delete/69,13,0,0
+1739578541099,37,Delete Book-1,200,,MainThreadGroup 1-65,text,true,,10055,125,36,36,http://192.168.1.107:8080/books,37,0,0
+1739578541099,46,Update Book,200,,MainThreadGroup 1-70,text,true,,10505,398,35,35,http://192.168.1.107:8080/books,27,0,0
+1739578541099,27,Update Book-0,302,,MainThreadGroup 1-70,,true,,186,273,35,35,http://192.168.1.107:8080/books/update/74,27,0,0
+1739578541126,19,Update Book-1,200,,MainThreadGroup 1-70,text,true,,10319,125,35,35,http://192.168.1.107:8080/books,19,0,0
+1739578541104,45,Add Book POST,200,,MainThreadGroup 1-87,text,true,,10505,389,35,35,http://192.168.1.107:8080/books,26,0,0
+1739578541104,26,Add Book POST-0,302,,MainThreadGroup 1-87,,true,,186,264,35,35,http://192.168.1.107:8080/books/add,26,0,0
+1739578541130,19,Add Book POST-1,200,,MainThreadGroup 1-87,text,true,,10319,125,35,35,http://192.168.1.107:8080/books,18,0,0
+1739578541150,3,JDBC Request,200,OK,MainThreadGroup 1-83,text,true,,6,0,35,35,null,2,0,0
+1739578541147,13,Show List Form,200,,MainThreadGroup 1-96,text,true,,10319,185,35,35,http://192.168.1.107:8080/books,13,0,2
+1739578541175,0,Debug Sampler,200,OK,MainThreadGroup 1-79,text,true,,513,0,35,35,null,0,0,0
+1739578541184,3,Show Add Form,200,,MainThreadGroup 1-92,text,true,,842,129,35,35,http://192.168.1.107:8080/books/add,3,0,0
+1739578541189,11,Show Edit Form,200,,MainThreadGroup 1-75,text,true,,899,133,35,35,http://192.168.1.107:8080/books/edit/79,11,0,0
+1739578541180,56,Delete Book,200,,MainThreadGroup 1-66,text,true,,10241,260,35,35,http://192.168.1.107:8080/books,26,0,0
+1739578541180,26,Delete Book-0,302,,MainThreadGroup 1-66,,true,,186,135,35,35,http://192.168.1.107:8080/books/delete/70,26,0,0
+1739578541207,29,Delete Book-1,200,,MainThreadGroup 1-66,text,true,,10055,125,35,35,http://192.168.1.107:8080/books,28,0,0
+1739578541201,46,Add Book POST,200,,MainThreadGroup 1-88,text,true,,10505,389,34,34,http://192.168.1.107:8080/books,26,0,0
+1739578541201,26,Add Book POST-0,302,,MainThreadGroup 1-88,,true,,186,264,34,34,http://192.168.1.107:8080/books/add,26,0,0
+1739578541227,20,Add Book POST-1,200,,MainThreadGroup 1-88,text,true,,10319,125,34,34,http://192.168.1.107:8080/books,18,0,0
+1739578541205,48,Update Book,200,,MainThreadGroup 1-71,text,true,,10505,398,34,34,http://192.168.1.107:8080/books,28,0,0
+1739578541205,28,Update Book-0,302,,MainThreadGroup 1-71,,true,,186,273,34,34,http://192.168.1.107:8080/books/update/75,28,0,0
+1739578541233,20,Update Book-1,200,,MainThreadGroup 1-71,text,true,,10319,125,34,34,http://192.168.1.107:8080/books,20,0,0
+1739578541243,13,Show List Form,200,,MainThreadGroup 1-97,text,true,,10319,185,34,34,http://192.168.1.107:8080/books,13,0,0
+1739578541261,3,JDBC Request,200,OK,MainThreadGroup 1-84,text,true,,6,0,34,34,null,3,0,1
+1739578541265,0,Debug Sampler,200,OK,MainThreadGroup 1-80,text,true,,513,0,34,34,null,0,0,0
+1739578541255,21,Delete Book,200,,MainThreadGroup 1-67,text,true,,10241,260,34,34,http://192.168.1.107:8080/books,12,0,0
+1739578541255,12,Delete Book-0,302,,MainThreadGroup 1-67,,true,,186,135,34,34,http://192.168.1.107:8080/books/delete/71,12,0,0
+1739578541267,9,Delete Book-1,200,,MainThreadGroup 1-67,text,true,,10055,125,34,34,http://192.168.1.107:8080/books,9,0,0
+1739578541281,8,Show Add Form,200,,MainThreadGroup 1-93,text,true,,842,129,33,33,http://192.168.1.107:8080/books/add,8,0,0
+1739578541277,17,Show Edit Form,200,,MainThreadGroup 1-76,text,true,,899,133,33,33,http://192.168.1.107:8080/books/edit/80,16,0,0
+1739578541291,39,Update Book,200,,MainThreadGroup 1-72,text,true,,10505,398,33,33,http://192.168.1.107:8080/books,18,0,0
+1739578541291,18,Update Book-0,302,,MainThreadGroup 1-72,,true,,186,273,33,33,http://192.168.1.107:8080/books/update/76,18,0,0
+1739578541310,20,Update Book-1,200,,MainThreadGroup 1-72,text,true,,10319,125,33,33,http://192.168.1.107:8080/books,20,0,0
+1739578541300,35,Add Book POST,200,,MainThreadGroup 1-89,text,true,,10505,389,33,33,http://192.168.1.107:8080/books,19,0,0
+1739578541300,19,Add Book POST-0,302,,MainThreadGroup 1-89,,true,,186,264,33,33,http://192.168.1.107:8080/books/add,19,0,0
+1739578541319,16,Add Book POST-1,200,,MainThreadGroup 1-89,text,true,,10319,125,33,33,http://192.168.1.107:8080/books,16,0,0
+1739578541351,0,Debug Sampler,200,OK,MainThreadGroup 1-81,text,true,,513,0,33,33,null,0,0,0
+1739578541346,4,JDBC Request,200,OK,MainThreadGroup 1-85,text,true,,6,0,33,33,null,4,0,1
+1739578541337,21,Show List Form,200,,MainThreadGroup 1-98,text,true,,10319,185,33,33,http://192.168.1.107:8080/books,21,0,0
+1739578541331,30,Delete Book,200,,MainThreadGroup 1-68,text,true,,10241,260,33,33,http://192.168.1.107:8080/books,17,0,0
+1739578541331,17,Delete Book-0,302,,MainThreadGroup 1-68,,true,,186,135,33,33,http://192.168.1.107:8080/books/delete/72,17,0,0
+1739578541349,12,Delete Book-1,200,,MainThreadGroup 1-68,text,true,,10055,125,33,33,http://192.168.1.107:8080/books,12,0,0
+1739578541369,11,Show Edit Form,200,,MainThreadGroup 1-77,text,true,,899,133,32,32,http://192.168.1.107:8080/books/edit/81,11,0,0
+1739578541376,7,Show Add Form,200,,MainThreadGroup 1-94,text,true,,842,129,32,32,http://192.168.1.107:8080/books/add,5,0,0
+1739578541391,34,Update Book,200,,MainThreadGroup 1-73,text,true,,10505,398,32,32,http://192.168.1.107:8080/books,14,0,0
+1739578541391,14,Update Book-0,302,,MainThreadGroup 1-73,,true,,186,273,32,32,http://192.168.1.107:8080/books/update/77,14,0,0
+1739578541405,20,Update Book-1,200,,MainThreadGroup 1-73,text,true,,10319,125,32,32,http://192.168.1.107:8080/books,20,0,0
+1739578541398,32,Add Book POST,200,,MainThreadGroup 1-90,text,true,,10505,389,32,32,http://192.168.1.107:8080/books,18,0,0
+1739578541398,18,Add Book POST-0,302,,MainThreadGroup 1-90,,true,,186,264,32,32,http://192.168.1.107:8080/books/add,18,0,0
+1739578541416,14,Add Book POST-1,200,,MainThreadGroup 1-90,text,true,,10319,125,32,32,http://192.168.1.107:8080/books,13,0,0
+1739578541430,13,Show List Form,200,,MainThreadGroup 1-99,text,true,,10319,185,32,32,http://192.168.1.107:8080/books,13,0,1
+1739578541440,4,JDBC Request,200,OK,MainThreadGroup 1-86,text,true,,6,0,32,32,null,4,0,0
+1739578541436,26,Delete Book,200,,MainThreadGroup 1-69,text,true,,10241,260,32,32,http://192.168.1.107:8080/books,15,0,0
+1739578541436,15,Delete Book-0,302,,MainThreadGroup 1-69,,true,,186,135,32,32,http://192.168.1.107:8080/books/delete/73,15,0,0
+1739578541451,11,Delete Book-1,200,,MainThreadGroup 1-69,text,true,,10055,125,32,32,http://192.168.1.107:8080/books,10,0,0
+1739578541465,0,Debug Sampler,200,OK,MainThreadGroup 1-82,text,true,,512,0,31,31,null,0,0,0
+1739578541466,5,Show Add Form,200,,MainThreadGroup 1-95,text,true,,842,129,31,31,http://192.168.1.107:8080/books/add,4,0,0
+1739578541480,8,Show Edit Form,200,,MainThreadGroup 1-78,text,true,,899,133,31,31,http://192.168.1.107:8080/books/edit/82,7,0,0
+1739578541516,13,Show List Form,200,,MainThreadGroup 1-100,text,true,,10312,185,31,31,http://192.168.1.107:8080/books,13,0,1
+1739578541495,52,Add Book POST,200,,MainThreadGroup 1-91,text,true,,10498,389,31,31,http://192.168.1.107:8080/books,16,0,0
+1739578541495,16,Add Book POST-0,302,,MainThreadGroup 1-91,,true,,186,264,31,31,http://192.168.1.107:8080/books/add,16,0,0
+1739578541511,36,Add Book POST-1,200,,MainThreadGroup 1-91,text,true,,10312,125,31,31,http://192.168.1.107:8080/books,35,0,0
+1739578541551,4,JDBC Request,200,OK,MainThreadGroup 1-87,text,true,,6,0,31,31,null,3,0,0
+1739578541556,1,Debug Sampler,200,OK,MainThreadGroup 1-83,text,true,,513,0,31,31,null,0,0,0
+1739578541561,23,Show Add Form,200,,MainThreadGroup 1-96,text,true,,842,129,31,31,http://192.168.1.107:8080/books/add,21,0,0
+1739578541514,87,Update Book,200,,MainThreadGroup 1-74,text,true,,10505,398,31,31,http://192.168.1.107:8080/books,28,0,0
+1739578541514,28,Update Book-0,302,,MainThreadGroup 1-74,,true,,186,273,31,31,http://192.168.1.107:8080/books/update/78,28,0,0
+1739578541543,58,Update Book-1,200,,MainThreadGroup 1-74,text,true,,10319,125,31,31,http://192.168.1.107:8080/books,57,0,0
+1739578541584,28,Show Edit Form,200,,MainThreadGroup 1-79,text,true,,899,133,31,31,http://192.168.1.107:8080/books/edit/83,28,0,0
+1739578541648,2,JDBC Request,200,OK,MainThreadGroup 1-88,text,true,,6,0,31,31,null,2,0,0
+1739578541669,0,Debug Sampler,200,OK,MainThreadGroup 1-84,text,true,,513,0,31,31,null,0,0,0
+1739578541657,46,Show Add Form,200,,MainThreadGroup 1-97,text,true,,842,129,31,31,http://192.168.1.107:8080/books/add,45,0,0
+1739578541549,154,Delete Book,200,,MainThreadGroup 1-70,text,true,,10241,260,31,31,http://192.168.1.107:8080/books,74,0,0
+1739578541549,74,Delete Book-0,302,,MainThreadGroup 1-70,,true,,186,135,31,31,http://192.168.1.107:8080/books/delete/74,74,0,0
+1739578541623,80,Delete Book-1,200,,MainThreadGroup 1-70,text,true,,10055,125,31,31,http://192.168.1.107:8080/books,73,0,0
+1739578541589,131,Add Book POST,200,,MainThreadGroup 1-92,text,true,,10505,389,30,30,http://192.168.1.107:8080/books,49,0,0
+1739578541589,49,Add Book POST-0,302,,MainThreadGroup 1-92,,true,,186,264,30,30,http://192.168.1.107:8080/books/add,49,0,0
+1739578541639,81,Add Book POST-1,200,,MainThreadGroup 1-92,text,true,,10319,125,30,30,http://192.168.1.107:8080/books,81,0,0
+1739578541668,60,Show Edit Form,200,,MainThreadGroup 1-80,text,true,,899,133,30,30,http://192.168.1.107:8080/books/edit/84,60,0,0
+1739578541737,7,JDBC Request,200,OK,MainThreadGroup 1-89,text,true,,6,0,30,30,null,7,0,0
+1739578541754,0,Debug Sampler,200,OK,MainThreadGroup 1-85,text,true,,513,0,30,30,null,0,0,0
+1739578541657,114,Delete Book,200,,MainThreadGroup 1-71,text,true,,10505,260,30,30,http://192.168.1.107:8080/books,85,0,0
+1739578541657,85,Delete Book-0,302,,MainThreadGroup 1-71,,true,,186,135,30,30,http://192.168.1.107:8080/books/delete/75,85,0,0
+1739578541745,26,Delete Book-1,200,,MainThreadGroup 1-71,text,true,,10319,125,30,30,http://192.168.1.107:8080/books,24,0,0
+1739578541755,18,Show Edit Form,200,,MainThreadGroup 1-81,text,true,,899,133,30,30,http://192.168.1.107:8080/books/edit/85,15,0,0
+1739578541603,173,Update Book,200,,MainThreadGroup 1-75,text,true,,10248,398,29,29,http://192.168.1.107:8080/books,46,0,0
+1739578541603,46,Update Book-0,302,,MainThreadGroup 1-75,,true,,186,273,29,29,http://192.168.1.107:8080/books/update/79,46,0,0
+1739578541649,127,Update Book-1,200,,MainThreadGroup 1-75,text,true,,10062,125,29,29,http://192.168.1.107:8080/books,127,0,0
+1739578541763,17,Show Add Form,200,,MainThreadGroup 1-98,text,true,,842,129,29,29,http://192.168.1.107:8080/books/add,16,0,0
+1739578541698,87,Add Book POST,200,,MainThreadGroup 1-93,text,true,,10241,389,29,29,http://192.168.1.107:8080/books,50,0,0
+1739578541698,50,Add Book POST-0,302,,MainThreadGroup 1-93,,true,,186,264,29,29,http://192.168.1.107:8080/books/add,50,0,0
+1739578541749,36,Add Book POST-1,200,,MainThreadGroup 1-93,text,true,,10055,125,29,29,http://192.168.1.107:8080/books,35,0,0
+1739578541697,93,Update Book,200,,MainThreadGroup 1-76,text,true,,10241,398,29,29,http://192.168.1.107:8080/books,54,0,0
+1739578541697,54,Update Book-0,302,,MainThreadGroup 1-76,,true,,186,273,29,29,http://192.168.1.107:8080/books/update/80,54,0,0
+1739578541751,39,Update Book-1,200,,MainThreadGroup 1-76,text,true,,10055,125,29,29,http://192.168.1.107:8080/books,38,0,0
+1739578541734,61,Delete Book,200,,MainThreadGroup 1-72,text,true,,10241,260,29,29,http://192.168.1.107:8080/books,34,0,0
+1739578541734,34,Delete Book-0,302,,MainThreadGroup 1-72,,true,,186,135,29,29,http://192.168.1.107:8080/books/delete/76,34,0,0
+1739578541768,27,Delete Book-1,200,,MainThreadGroup 1-72,text,true,,10055,125,29,29,http://192.168.1.107:8080/books,26,0,0
+1739578541786,38,Add Book POST,200,,MainThreadGroup 1-94,text,true,,10505,389,28,28,http://192.168.1.107:8080/books,25,0,0
+1739578541786,25,Add Book POST-0,302,,MainThreadGroup 1-94,,true,,186,264,28,28,http://192.168.1.107:8080/books/add,25,0,0
+1739578541811,13,Add Book POST-1,200,,MainThreadGroup 1-94,text,true,,10319,125,28,28,http://192.168.1.107:8080/books,13,0,0
+1739578541781,45,Update Book,200,,MainThreadGroup 1-77,text,true,,10505,398,28,28,http://192.168.1.107:8080/books,30,0,0
+1739578541781,30,Update Book-0,302,,MainThreadGroup 1-77,,true,,186,273,28,28,http://192.168.1.107:8080/books/update/81,30,0,0
+1739578541811,15,Update Book-1,200,,MainThreadGroup 1-77,text,true,,10319,125,28,28,http://192.168.1.107:8080/books,13,0,0
+1739578541832,3,JDBC Request,200,OK,MainThreadGroup 1-90,text,true,,6,0,28,28,null,2,0,0
+1739578541844,0,Debug Sampler,200,OK,MainThreadGroup 1-86,text,true,,513,0,28,28,null,0,0,0
+1739578541844,7,Show Add Form,200,,MainThreadGroup 1-99,text,true,,842,129,28,28,http://192.168.1.107:8080/books/add,7,0,0
+1739578541828,33,Delete Book,200,,MainThreadGroup 1-73,text,true,,10241,260,28,28,http://192.168.1.107:8080/books,20,0,0
+1739578541828,20,Delete Book-0,302,,MainThreadGroup 1-73,,true,,186,135,28,28,http://192.168.1.107:8080/books/delete/77,20,0,0
+1739578541848,13,Delete Book-1,200,,MainThreadGroup 1-73,text,true,,10055,125,28,28,http://192.168.1.107:8080/books,13,0,0
+1739578541866,8,Show Edit Form,200,,MainThreadGroup 1-82,text,true,,899,133,27,27,http://192.168.1.107:8080/books/edit/86,7,0,0
+1739578541872,43,Add Book POST,200,,MainThreadGroup 1-95,text,true,,10498,389,27,27,http://192.168.1.107:8080/books,18,0,0
+1739578541872,18,Add Book POST-0,302,,MainThreadGroup 1-95,,true,,186,264,27,27,http://192.168.1.107:8080/books/add,18,0,0
+1739578541892,23,Add Book POST-1,200,,MainThreadGroup 1-95,text,true,,10312,125,27,27,http://192.168.1.107:8080/books,23,0,0
+1739578541889,37,Update Book,200,,MainThreadGroup 1-78,text,true,,10505,398,27,27,http://192.168.1.107:8080/books,21,0,0
+1739578541889,21,Update Book-0,302,,MainThreadGroup 1-78,,true,,186,273,27,27,http://192.168.1.107:8080/books/update/82,21,0,0
+1739578541910,16,Update Book-1,200,,MainThreadGroup 1-78,text,true,,10319,125,27,27,http://192.168.1.107:8080/books,16,0,0
+1739578541930,12,Show Add Form,200,,MainThreadGroup 1-100,text,true,,842,129,27,27,http://192.168.1.107:8080/books/add,9,0,0
+1739578541948,2,JDBC Request,200,OK,MainThreadGroup 1-91,text,true,,6,0,27,27,null,1,0,0
+1739578541966,0,Debug Sampler,200,OK,MainThreadGroup 1-87,text,true,,513,0,27,27,null,0,0,0
+1739578541966,12,Show Edit Form,200,,MainThreadGroup 1-83,text,true,,899,133,27,27,http://192.168.1.107:8080/books/edit/87,12,0,0
+1739578541988,45,Add Book POST,200,,MainThreadGroup 1-96,text,true,,10762,389,27,27,http://192.168.1.107:8080/books,15,0,0
+1739578541988,15,Add Book POST-0,302,,MainThreadGroup 1-96,,true,,186,264,27,27,http://192.168.1.107:8080/books/add,15,0,0
+1739578542003,30,Add Book POST-1,200,,MainThreadGroup 1-96,text,true,,10576,125,27,27,http://192.168.1.107:8080/books,28,0,0
+1739578542004,43,Delete Book,200,,MainThreadGroup 1-74,text,true,,10498,260,27,27,http://192.168.1.107:8080/books,22,0,0
+1739578542004,22,Delete Book-0,302,,MainThreadGroup 1-74,,true,,186,135,27,27,http://192.168.1.107:8080/books/delete/78,22,0,0
+1739578542027,20,Delete Book-1,200,,MainThreadGroup 1-74,text,true,,10312,125,27,27,http://192.168.1.107:8080/books,19,0,0
+1739578542013,37,Update Book,200,,MainThreadGroup 1-79,text,true,,10505,398,26,26,http://192.168.1.107:8080/books,25,0,0
+1739578542013,25,Update Book-0,302,,MainThreadGroup 1-79,,true,,186,273,26,26,http://192.168.1.107:8080/books/update/83,25,0,0
+1739578542038,12,Update Book-1,200,,MainThreadGroup 1-79,text,true,,10319,125,26,26,http://192.168.1.107:8080/books,12,0,0
+1739578542051,0,Debug Sampler,200,OK,MainThreadGroup 1-88,text,true,,513,0,26,26,null,0,0,0
+1739578542070,7,Show Edit Form,200,,MainThreadGroup 1-84,text,true,,899,133,26,26,http://192.168.1.107:8080/books/edit/88,7,0,0
+1739578542121,1,JDBC Request,200,OK,MainThreadGroup 1-92,text,true,,6,0,26,26,null,1,0,0
+1739578542104,22,Add Book POST,200,,MainThreadGroup 1-97,text,true,,10762,389,26,26,http://192.168.1.107:8080/books,11,0,0
+1739578542104,11,Add Book POST-0,302,,MainThreadGroup 1-97,,true,,186,264,26,26,http://192.168.1.107:8080/books/add,11,0,0
+1739578542115,11,Add Book POST-1,200,,MainThreadGroup 1-97,text,true,,10576,125,26,26,http://192.168.1.107:8080/books,10,0,0
+1739578542145,0,Debug Sampler,200,OK,MainThreadGroup 1-89,text,true,,513,0,26,26,null,0,0,0
+1739578542130,29,Update Book,200,,MainThreadGroup 1-80,text,true,,10769,398,26,26,http://192.168.1.107:8080/books,13,0,0
+1739578542130,13,Update Book-0,302,,MainThreadGroup 1-80,,true,,186,273,26,26,http://192.168.1.107:8080/books/update/84,13,0,0
+1739578542144,15,Update Book-1,200,,MainThreadGroup 1-80,text,true,,10583,125,26,26,http://192.168.1.107:8080/books,14,0,0
+1739578542158,8,Show Edit Form,200,,MainThreadGroup 1-85,text,true,,899,133,26,26,http://192.168.1.107:8080/books/edit/89,8,0,0
+1739578542186,6,JDBC Request,200,OK,MainThreadGroup 1-93,text,true,,6,0,26,26,null,5,0,1
+1739578542173,39,Update Book,200,,MainThreadGroup 1-81,text,true,,10776,398,26,26,http://192.168.1.107:8080/books,14,0,0
+1739578542173,14,Update Book-0,302,,MainThreadGroup 1-81,,true,,186,273,26,26,http://192.168.1.107:8080/books/update/85,14,0,0
+1739578542187,25,Update Book-1,200,,MainThreadGroup 1-81,text,true,,10590,125,26,26,http://192.168.1.107:8080/books,24,0,0
+1739578542177,47,Delete Book,200,,MainThreadGroup 1-75,text,true,,10769,260,26,26,http://192.168.1.107:8080/books,25,0,0
+1739578542177,25,Delete Book-0,302,,MainThreadGroup 1-75,,true,,186,135,26,26,http://192.168.1.107:8080/books/delete/79,25,0,0
+1739578542202,22,Delete Book-1,200,,MainThreadGroup 1-75,text,true,,10583,125,26,26,http://192.168.1.107:8080/books,21,0,0
+1739578542225,2,JDBC Request,200,OK,MainThreadGroup 1-94,text,true,,6,0,25,25,null,2,0,0
+1739578542181,50,Add Book POST,200,,MainThreadGroup 1-98,text,true,,10505,389,25,25,http://192.168.1.107:8080/books,32,0,0
+1739578542181,32,Add Book POST-0,302,,MainThreadGroup 1-98,,true,,186,264,25,25,http://192.168.1.107:8080/books/add,32,0,0
+1739578542213,18,Add Book POST-1,200,,MainThreadGroup 1-98,text,true,,10319,125,25,25,http://192.168.1.107:8080/books,17,0,0
+1739578542191,41,Delete Book,200,,MainThreadGroup 1-76,text,true,,10505,260,25,25,http://192.168.1.107:8080/books,24,0,0
+1739578542191,24,Delete Book-0,302,,MainThreadGroup 1-76,,true,,186,135,25,25,http://192.168.1.107:8080/books/delete/80,24,0,0
+1739578542215,17,Delete Book-1,200,,MainThreadGroup 1-76,text,true,,10319,125,25,25,http://192.168.1.107:8080/books,16,0,0
+1739578542237,2,Debug Sampler,200,OK,MainThreadGroup 1-90,text,true,,513,0,24,24,null,0,0,0
+1739578542246,9,Show Edit Form,200,,MainThreadGroup 1-86,text,true,,899,133,24,24,http://192.168.1.107:8080/books/edit/90,8,0,0
+1739578542227,42,Delete Book,200,,MainThreadGroup 1-77,text,true,,10241,260,24,24,http://192.168.1.107:8080/books,18,0,0
+1739578542227,18,Delete Book-0,302,,MainThreadGroup 1-77,,true,,186,135,24,24,http://192.168.1.107:8080/books/delete/81,18,0,0
+1739578542246,23,Delete Book-1,200,,MainThreadGroup 1-77,text,true,,10055,125,24,24,http://192.168.1.107:8080/books,23,0,0
+1739578542252,31,Add Book POST,200,,MainThreadGroup 1-99,text,true,,10498,389,23,23,http://192.168.1.107:8080/books,15,0,0
+1739578542252,15,Add Book POST-0,302,,MainThreadGroup 1-99,,true,,186,264,23,23,http://192.168.1.107:8080/books/add,15,0,0
+1739578542267,16,Add Book POST-1,200,,MainThreadGroup 1-99,text,true,,10312,125,23,23,http://192.168.1.107:8080/books,16,0,0
+1739578542277,29,Update Book,200,,MainThreadGroup 1-82,text,true,,10505,398,23,23,http://192.168.1.107:8080/books,17,0,0
+1739578542277,17,Update Book-0,302,,MainThreadGroup 1-82,,true,,186,273,23,23,http://192.168.1.107:8080/books/update/86,17,0,0
+1739578542294,12,Update Book-1,200,,MainThreadGroup 1-82,text,true,,10319,125,23,23,http://192.168.1.107:8080/books,10,0,0
+1739578542316,2,JDBC Request,200,OK,MainThreadGroup 1-95,text,true,,6,0,23,23,null,2,0,0
+1739578542351,0,Debug Sampler,200,OK,MainThreadGroup 1-91,text,true,,513,0,23,23,null,0,0,0
+1739578542328,26,Delete Book,200,,MainThreadGroup 1-78,text,true,,10241,260,23,23,http://192.168.1.107:8080/books,12,0,0
+1739578542328,12,Delete Book-0,302,,MainThreadGroup 1-78,,true,,186,135,23,23,http://192.168.1.107:8080/books/delete/82,12,0,0
+1739578542340,14,Delete Book-1,200,,MainThreadGroup 1-78,text,true,,10055,125,23,23,http://192.168.1.107:8080/books,14,0,0
+1739578542343,25,Add Book POST,200,,MainThreadGroup 1-100,text,true,,10500,389,22,22,http://192.168.1.107:8080/books,14,0,0
+1739578542343,14,Add Book POST-0,302,,MainThreadGroup 1-100,,true,,186,264,22,22,http://192.168.1.107:8080/books/add,14,0,0
+1739578542357,11,Add Book POST-1,200,,MainThreadGroup 1-100,text,true,,10314,125,22,22,http://192.168.1.107:8080/books,10,0,0
+1739578542368,8,Show Edit Form,200,,MainThreadGroup 1-87,text,true,,899,133,22,22,http://192.168.1.107:8080/books/edit/91,7,0,0
+1739578542380,25,Update Book,200,,MainThreadGroup 1-83,text,true,,10507,398,22,22,http://192.168.1.107:8080/books,12,0,0
+1739578542380,12,Update Book-0,302,,MainThreadGroup 1-83,,true,,186,273,22,22,http://192.168.1.107:8080/books/update/87,12,0,0
+1739578542392,13,Update Book-1,200,,MainThreadGroup 1-83,text,true,,10321,125,22,22,http://192.168.1.107:8080/books,13,0,0
+1739578542434,2,JDBC Request,200,OK,MainThreadGroup 1-96,text,true,,7,0,22,22,null,1,0,0
+1739578542453,7,Show Edit Form,200,,MainThreadGroup 1-88,text,true,,899,133,22,22,http://192.168.1.107:8080/books/edit/92,7,0,0
+1739578542451,25,Delete Book,200,,MainThreadGroup 1-79,text,true,,10243,260,22,22,http://192.168.1.107:8080/books,15,0,0
+1739578542451,15,Delete Book-0,302,,MainThreadGroup 1-79,,true,,186,135,22,22,http://192.168.1.107:8080/books/delete/83,15,0,0
+1739578542466,10,Delete Book-1,200,,MainThreadGroup 1-79,text,true,,10057,125,22,22,http://192.168.1.107:8080/books,10,0,0
+1739578542478,26,Update Book,200,,MainThreadGroup 1-84,text,true,,10250,398,21,21,http://192.168.1.107:8080/books,12,0,0
+1739578542478,12,Update Book-0,302,,MainThreadGroup 1-84,,true,,186,273,21,21,http://192.168.1.107:8080/books/update/88,12,0,0
+1739578542490,14,Update Book-1,200,,MainThreadGroup 1-84,text,true,,10064,125,21,21,http://192.168.1.107:8080/books,14,0,0
+1739578542523,0,Debug Sampler,200,OK,MainThreadGroup 1-92,text,true,,513,0,21,21,null,0,0,0
+1739578542528,2,JDBC Request,200,OK,MainThreadGroup 1-97,text,true,,7,0,21,21,null,2,0,0
+1739578542546,9,Show Edit Form,200,,MainThreadGroup 1-89,text,true,,899,133,21,21,http://192.168.1.107:8080/books/edit/92,9,0,0
+1739578542593,0,Debug Sampler,200,OK,MainThreadGroup 1-93,text,true,,512,0,21,21,null,0,0,0
+1739578542561,35,Delete Book,200,,MainThreadGroup 1-80,text,true,,9993,260,21,21,http://192.168.1.107:8080/books,16,0,0
+1739578542561,16,Delete Book-0,302,,MainThreadGroup 1-80,,true,,186,135,21,21,http://192.168.1.107:8080/books/delete/84,16,0,0
+1739578542578,18,Delete Book-1,200,,MainThreadGroup 1-80,text,true,,9807,125,21,21,http://192.168.1.107:8080/books,17,0,0
+1739578542567,34,Update Book,200,,MainThreadGroup 1-85,text,true,,9993,398,20,20,http://192.168.1.107:8080/books,16,0,0
+1739578542567,16,Update Book-0,302,,MainThreadGroup 1-85,,true,,186,273,20,20,http://192.168.1.107:8080/books/update/89,16,0,0
+1739578542583,18,Update Book-1,200,,MainThreadGroup 1-85,text,true,,9807,125,20,20,http://192.168.1.107:8080/books,17,0,0
+1739578542628,0,Debug Sampler,200,OK,MainThreadGroup 1-94,text,true,,513,0,20,20,null,0,0,0
+1739578542632,1,JDBC Request,200,OK,MainThreadGroup 1-98,text,true,,7,0,20,20,null,1,0,0
+1739578542616,25,Delete Book,200,,MainThreadGroup 1-81,text,true,,9729,260,20,20,http://192.168.1.107:8080/books,11,0,0
+1739578542616,11,Delete Book-0,302,,MainThreadGroup 1-81,,true,,186,135,20,20,http://192.168.1.107:8080/books/delete/85,11,0,0
+1739578542628,13,Delete Book-1,200,,MainThreadGroup 1-81,text,true,,9543,125,20,20,http://192.168.1.107:8080/books,13,0,0
+1739578542640,7,Show Edit Form,200,,MainThreadGroup 1-90,text,true,,899,133,19,19,http://192.168.1.107:8080/books/edit/94,7,0,0
+1739578542656,26,Update Book,200,,MainThreadGroup 1-86,text,true,,9736,398,19,19,http://192.168.1.107:8080/books,13,0,0
+1739578542656,13,Update Book-0,302,,MainThreadGroup 1-86,,true,,186,273,19,19,http://192.168.1.107:8080/books/update/90,13,0,0
+1739578542669,13,Update Book-1,200,,MainThreadGroup 1-86,text,true,,9550,125,19,19,http://192.168.1.107:8080/books,12,0,0
+1739578542685,2,JDBC Request,200,OK,MainThreadGroup 1-99,text,true,,7,0,19,19,null,2,0,0
+1739578542719,0,Debug Sampler,200,OK,MainThreadGroup 1-95,text,true,,513,0,19,19,null,0,0,0
+1739578542707,23,Delete Book,200,,MainThreadGroup 1-82,text,true,,9472,260,19,19,http://192.168.1.107:8080/books,12,0,0
+1739578542707,12,Delete Book-0,302,,MainThreadGroup 1-82,,true,,186,135,19,19,http://192.168.1.107:8080/books/delete/86,12,0,0
+1739578542719,11,Delete Book-1,200,,MainThreadGroup 1-82,text,true,,9286,125,19,19,http://192.168.1.107:8080/books,11,0,0
+1739578542753,7,Show Edit Form,200,,MainThreadGroup 1-91,text,true,,899,133,18,18,http://192.168.1.107:8080/books/edit/95,7,0,0
+1739578542769,1,JDBC Request,200,OK,MainThreadGroup 1-100,text,true,,7,0,18,18,null,1,0,0
+1739578542777,23,Update Book,200,,MainThreadGroup 1-87,text,true,,9479,398,18,18,http://192.168.1.107:8080/books,13,0,0
+1739578542777,13,Update Book-0,302,,MainThreadGroup 1-87,,true,,186,273,18,18,http://192.168.1.107:8080/books/update/91,13,0,0
+1739578542790,10,Update Book-1,200,,MainThreadGroup 1-87,text,true,,9293,125,18,18,http://192.168.1.107:8080/books,9,0,0
+1739578542807,22,Delete Book,200,,MainThreadGroup 1-83,text,true,,9215,260,18,18,http://192.168.1.107:8080/books,12,0,0
+1739578542807,12,Delete Book-0,302,,MainThreadGroup 1-83,,true,,186,135,18,18,http://192.168.1.107:8080/books/delete/87,12,0,0
+1739578542819,10,Delete Book-1,200,,MainThreadGroup 1-83,text,true,,9029,125,18,18,http://192.168.1.107:8080/books,10,0,0
+1739578542837,0,Debug Sampler,200,OK,MainThreadGroup 1-96,text,true,,516,0,17,17,null,0,0,0
+1739578542862,25,Update Book,200,,MainThreadGroup 1-88,text,true,,9222,398,17,17,http://192.168.1.107:8080/books,13,0,0
+1739578542862,13,Update Book-0,302,,MainThreadGroup 1-88,,true,,186,273,17,17,http://192.168.1.107:8080/books/update/92,13,0,0
+1739578542876,11,Update Book-1,200,,MainThreadGroup 1-88,text,true,,9036,125,17,17,http://192.168.1.107:8080/books,11,0,0
+1739578542924,7,Show Edit Form,200,,MainThreadGroup 1-92,text,true,,899,133,17,17,http://192.168.1.107:8080/books/edit/97,7,0,0
+1739578542930,1,Debug Sampler,200,OK,MainThreadGroup 1-97,text,true,,516,0,17,17,null,0,0,0
+1739578542906,28,Delete Book,200,,MainThreadGroup 1-84,text,true,,8958,260,17,17,http://192.168.1.107:8080/books,14,0,0
+1739578542906,14,Delete Book-0,302,,MainThreadGroup 1-84,,true,,186,135,17,17,http://192.168.1.107:8080/books/delete/88,14,0,0
+1739578542920,14,Delete Book-1,200,,MainThreadGroup 1-84,text,true,,8772,125,17,17,http://192.168.1.107:8080/books,14,0,0
+1739578542956,13,Update Book,200,,MainThreadGroup 1-89,text,true,,8958,398,16,16,http://192.168.1.107:8080/books,5,0,0
+1739578542956,5,Update Book-0,302,,MainThreadGroup 1-89,,true,,186,273,16,16,http://192.168.1.107:8080/books/update/92,5,0,0
+1739578542961,8,Update Book-1,200,,MainThreadGroup 1-89,text,true,,8772,125,16,16,http://192.168.1.107:8080/books,7,0,0
+1739578542994,7,Show Edit Form,200,,MainThreadGroup 1-93,text,true,,899,133,16,16,http://192.168.1.107:8080/books/edit/97,7,0,0
+1739578543004,26,Delete Book,200,,MainThreadGroup 1-85,text,true,,8693,260,16,16,http://192.168.1.107:8080/books,16,0,0
+1739578543004,16,Delete Book-0,302,,MainThreadGroup 1-85,,true,,186,135,16,16,http://192.168.1.107:8080/books/delete/89,16,0,0
+1739578543020,10,Delete Book-1,200,,MainThreadGroup 1-85,text,true,,8507,125,16,16,http://192.168.1.107:8080/books,9,0,0
+1739578543034,0,Debug Sampler,200,OK,MainThreadGroup 1-98,text,true,,516,0,15,15,null,0,0,0
+1739578543029,8,Show Edit Form,200,,MainThreadGroup 1-94,text,true,,899,133,15,15,http://192.168.1.107:8080/books/edit/98,7,0,0
+1739578543048,30,Update Book,200,,MainThreadGroup 1-90,text,true,,8700,398,15,15,http://192.168.1.107:8080/books,19,0,0
+1739578543048,19,Update Book-0,302,,MainThreadGroup 1-90,,true,,186,273,15,15,http://192.168.1.107:8080/books/update/94,19,0,0
+1739578543068,10,Update Book-1,200,,MainThreadGroup 1-90,text,true,,8514,125,15,15,http://192.168.1.107:8080/books,10,0,0
+1739578543087,1,Debug Sampler,200,OK,MainThreadGroup 1-99,text,true,,516,0,15,15,null,0,0,0
+1739578543084,30,Delete Book,200,,MainThreadGroup 1-86,text,true,,8430,260,15,15,http://192.168.1.107:8080/books,14,0,0
+1739578543084,14,Delete Book-0,302,,MainThreadGroup 1-86,,true,,186,135,15,15,http://192.168.1.107:8080/books/delete/90,14,0,0
+1739578543098,16,Delete Book-1,200,,MainThreadGroup 1-86,text,true,,8244,125,15,15,http://192.168.1.107:8080/books,16,0,0
+1739578543120,7,Show Edit Form,200,,MainThreadGroup 1-95,text,true,,899,133,14,14,http://192.168.1.107:8080/books/edit/99,7,0,0
+1739578543171,0,Debug Sampler,200,OK,MainThreadGroup 1-100,text,true,,516,0,14,14,null,0,0,0
+1739578543162,28,Update Book,200,,MainThreadGroup 1-91,text,true,,8437,398,14,14,http://192.168.1.107:8080/books,19,0,0
+1739578543162,19,Update Book-0,302,,MainThreadGroup 1-91,,true,,186,273,14,14,http://192.168.1.107:8080/books/update/95,19,0,0
+1739578543181,9,Update Book-1,200,,MainThreadGroup 1-91,text,true,,8251,125,14,14,http://192.168.1.107:8080/books,9,0,0
+1739578543200,24,Delete Book,200,,MainThreadGroup 1-87,text,true,,8173,260,14,14,http://192.168.1.107:8080/books,13,0,0
+1739578543200,13,Delete Book-0,302,,MainThreadGroup 1-87,,true,,186,135,14,14,http://192.168.1.107:8080/books/delete/91,13,0,0
+1739578543213,11,Delete Book-1,200,,MainThreadGroup 1-87,text,true,,7987,125,14,14,http://192.168.1.107:8080/books,11,0,0
+1739578543238,6,Show Edit Form,200,,MainThreadGroup 1-96,text,true,,900,134,13,13,http://192.168.1.107:8080/books/edit/100,6,0,0
+1739578543289,25,Delete Book,200,,MainThreadGroup 1-88,text,true,,7909,260,13,13,http://192.168.1.107:8080/books,13,0,0
+1739578543289,13,Delete Book-0,302,,MainThreadGroup 1-88,,true,,186,135,13,13,http://192.168.1.107:8080/books/delete/92,13,0,0
+1739578543302,12,Delete Book-1,200,,MainThreadGroup 1-88,text,true,,7723,125,13,13,http://192.168.1.107:8080/books,11,0,0
+1739578543332,10,Show Edit Form,200,,MainThreadGroup 1-97,text,true,,900,134,12,12,http://192.168.1.107:8080/books/edit/100,10,0,0
+1739578543332,32,Update Book,200,,MainThreadGroup 1-92,text,true,,7916,398,12,12,http://192.168.1.107:8080/books,19,0,0
+1739578543332,19,Update Book-0,302,,MainThreadGroup 1-92,,true,,186,273,12,12,http://192.168.1.107:8080/books/update/97,19,0,0
+1739578543351,13,Update Book-1,200,,MainThreadGroup 1-92,text,true,,7730,125,12,12,http://192.168.1.107:8080/books,13,0,0
+1739578543370,19,Delete Book,200,,MainThreadGroup 1-89,text,true,,7916,260,12,12,http://192.168.1.107:8080/books,5,0,0
+1739578543370,5,Delete Book-0,302,,MainThreadGroup 1-89,,true,,186,135,12,12,http://192.168.1.107:8080/books/delete/92,5,0,0
+1739578543376,13,Delete Book-1,200,,MainThreadGroup 1-89,text,true,,7730,125,12,12,http://192.168.1.107:8080/books,12,0,0
+1739578543403,27,Update Book,200,,MainThreadGroup 1-93,text,true,,7916,398,11,11,http://192.168.1.107:8080/books,9,0,0
+1739578543403,9,Update Book-0,302,,MainThreadGroup 1-93,,true,,186,273,11,11,http://192.168.1.107:8080/books/update/97,9,0,0
+1739578543412,18,Update Book-1,200,,MainThreadGroup 1-93,text,true,,7730,125,11,11,http://192.168.1.107:8080/books,17,0,0
+1739578543436,11,Show Edit Form,200,,MainThreadGroup 1-98,text,true,,900,134,11,11,http://192.168.1.107:8080/books/edit/100,11,0,0
+1739578543438,34,Update Book,200,,MainThreadGroup 1-94,text,true,,7923,398,11,11,http://192.168.1.107:8080/books,24,0,0
+1739578543438,24,Update Book-0,302,,MainThreadGroup 1-94,,true,,186,273,11,11,http://192.168.1.107:8080/books/update/98,24,0,0
+1739578543462,10,Update Book-1,200,,MainThreadGroup 1-94,text,true,,7737,125,11,11,http://192.168.1.107:8080/books,10,0,0
+1739578543488,9,Show Edit Form,200,,MainThreadGroup 1-99,text,true,,900,134,11,11,http://192.168.1.107:8080/books/edit/100,9,0,0
+1739578543480,24,Delete Book,200,,MainThreadGroup 1-90,text,true,,7659,260,11,11,http://192.168.1.107:8080/books,12,0,0
+1739578543480,12,Delete Book-0,302,,MainThreadGroup 1-90,,true,,186,135,11,11,http://192.168.1.107:8080/books/delete/94,12,0,0
+1739578543492,12,Delete Book-1,200,,MainThreadGroup 1-90,text,true,,7473,125,11,11,http://192.168.1.107:8080/books,12,0,0
+1739578543530,24,Update Book,200,,MainThreadGroup 1-95,text,true,,7666,398,10,10,http://192.168.1.107:8080/books,11,0,0
+1739578543530,11,Update Book-0,302,,MainThreadGroup 1-95,,true,,186,273,10,10,http://192.168.1.107:8080/books/update/99,11,0,0
+1739578543541,13,Update Book-1,200,,MainThreadGroup 1-95,text,true,,7480,125,10,10,http://192.168.1.107:8080/books,13,0,0
+1739578543573,6,Show Edit Form,200,,MainThreadGroup 1-100,text,true,,900,134,10,10,http://192.168.1.107:8080/books/edit/100,5,0,0
+1739578543591,24,Delete Book,200,,MainThreadGroup 1-91,text,true,,7402,260,10,10,http://192.168.1.107:8080/books,14,0,0
+1739578543591,14,Delete Book-0,302,,MainThreadGroup 1-91,,true,,186,135,10,10,http://192.168.1.107:8080/books/delete/95,14,0,0
+1739578543606,9,Delete Book-1,200,,MainThreadGroup 1-91,text,true,,7216,125,10,10,http://192.168.1.107:8080/books,9,0,0
+1739578543645,24,Update Book,200,,MainThreadGroup 1-96,text,true,,7409,399,9,9,http://192.168.1.107:8080/books,13,0,0
+1739578543645,13,Update Book-0,302,,MainThreadGroup 1-96,,true,,186,274,9,9,http://192.168.1.107:8080/books/update/100,13,0,0
+1739578543659,10,Update Book-1,200,,MainThreadGroup 1-96,text,true,,7223,125,9,9,http://192.168.1.107:8080/books,10,0,0
+1739578543743,13,Update Book,200,,MainThreadGroup 1-97,text,true,,7409,399,9,9,http://192.168.1.107:8080/books,5,0,0
+1739578543743,5,Update Book-0,302,,MainThreadGroup 1-97,,true,,186,274,9,9,http://192.168.1.107:8080/books/update/100,5,0,0
+1739578543748,8,Update Book-1,200,,MainThreadGroup 1-97,text,true,,7223,125,9,9,http://192.168.1.107:8080/books,8,0,0
+1739578543765,25,Delete Book,200,,MainThreadGroup 1-92,text,true,,7145,260,9,9,http://192.168.1.107:8080/books,13,0,0
+1739578543765,13,Delete Book-0,302,,MainThreadGroup 1-92,,true,,186,135,9,9,http://192.168.1.107:8080/books/delete/97,13,0,0
+1739578543778,12,Delete Book-1,200,,MainThreadGroup 1-92,text,true,,6959,125,9,9,http://192.168.1.107:8080/books,12,0,0
+1739578543830,13,Delete Book,200,,MainThreadGroup 1-93,text,true,,7145,260,8,8,http://192.168.1.107:8080/books,5,0,0
+1739578543830,5,Delete Book-0,302,,MainThreadGroup 1-93,,true,,186,135,8,8,http://192.168.1.107:8080/books/delete/97,5,0,0
+1739578543836,7,Delete Book-1,200,,MainThreadGroup 1-93,text,true,,6959,125,8,8,http://192.168.1.107:8080/books,7,0,0
+1739578543849,13,Update Book,200,,MainThreadGroup 1-98,text,true,,7145,399,7,7,http://192.168.1.107:8080/books,4,0,0
+1739578543849,4,Update Book-0,302,,MainThreadGroup 1-98,,true,,186,274,7,7,http://192.168.1.107:8080/books/update/100,4,0,0
+1739578543853,9,Update Book-1,200,,MainThreadGroup 1-98,text,true,,6959,125,7,7,http://192.168.1.107:8080/books,9,0,0
+1739578543875,22,Delete Book,200,,MainThreadGroup 1-94,text,true,,6881,260,7,7,http://192.168.1.107:8080/books,13,0,0
+1739578543875,13,Delete Book-0,302,,MainThreadGroup 1-94,,true,,186,135,7,7,http://192.168.1.107:8080/books/delete/98,13,0,0
+1739578543888,9,Delete Book-1,200,,MainThreadGroup 1-94,text,true,,6695,125,7,7,http://192.168.1.107:8080/books,9,0,0
+1739578543898,16,Update Book,200,,MainThreadGroup 1-99,text,true,,6881,399,6,6,http://192.168.1.107:8080/books,6,0,0
+1739578543898,6,Update Book-0,302,,MainThreadGroup 1-99,,true,,186,274,6,6,http://192.168.1.107:8080/books/update/100,6,0,0
+1739578543905,9,Update Book-1,200,,MainThreadGroup 1-99,text,true,,6695,125,6,6,http://192.168.1.107:8080/books,8,0,0
+1739578543956,23,Delete Book,200,,MainThreadGroup 1-95,text,true,,6617,260,6,6,http://192.168.1.107:8080/books,14,0,0
+1739578543956,14,Delete Book-0,302,,MainThreadGroup 1-95,,true,,186,135,6,6,http://192.168.1.107:8080/books/delete/99,14,0,0
+1739578543970,9,Delete Book-1,200,,MainThreadGroup 1-95,text,true,,6431,125,6,6,http://192.168.1.107:8080/books,9,0,0
+1739578543980,13,Update Book,200,,MainThreadGroup 1-100,text,true,,6617,399,5,5,http://192.168.1.107:8080/books,5,0,0
+1739578543980,5,Update Book-0,302,,MainThreadGroup 1-100,,true,,186,274,5,5,http://192.168.1.107:8080/books/update/100,5,0,0
+1739578543985,8,Update Book-1,200,,MainThreadGroup 1-100,text,true,,6431,125,5,5,http://192.168.1.107:8080/books,8,0,0
+1739578544070,21,Delete Book,200,,MainThreadGroup 1-96,text,true,,6351,261,5,5,http://192.168.1.107:8080/books,12,0,0
+1739578544070,12,Delete Book-0,302,,MainThreadGroup 1-96,,true,,186,136,5,5,http://192.168.1.107:8080/books/delete/100,12,0,0
+1739578544082,9,Delete Book-1,200,,MainThreadGroup 1-96,text,true,,6165,125,5,5,http://192.168.1.107:8080/books,9,0,0
+1739578544158,11,Delete Book,200,,MainThreadGroup 1-97,text,true,,6351,261,4,4,http://192.168.1.107:8080/books,4,0,0
+1739578544158,4,Delete Book-0,302,,MainThreadGroup 1-97,,true,,186,136,4,4,http://192.168.1.107:8080/books/delete/100,4,0,0
+1739578544162,7,Delete Book-1,200,,MainThreadGroup 1-97,text,true,,6165,125,4,4,http://192.168.1.107:8080/books,7,0,0
+1739578544263,12,Delete Book,200,,MainThreadGroup 1-98,text,true,,6351,261,3,3,http://192.168.1.107:8080/books,5,0,0
+1739578544263,5,Delete Book-0,302,,MainThreadGroup 1-98,,true,,186,136,3,3,http://192.168.1.107:8080/books/delete/100,5,0,0
+1739578544268,7,Delete Book-1,200,,MainThreadGroup 1-98,text,true,,6165,125,3,3,http://192.168.1.107:8080/books,6,0,0
+1739578544316,12,Delete Book,200,,MainThreadGroup 1-99,text,true,,6351,261,2,2,http://192.168.1.107:8080/books,5,0,0
+1739578544316,5,Delete Book-0,302,,MainThreadGroup 1-99,,true,,186,136,2,2,http://192.168.1.107:8080/books/delete/100,5,0,0
+1739578544321,7,Delete Book-1,200,,MainThreadGroup 1-99,text,true,,6165,125,2,2,http://192.168.1.107:8080/books,7,0,0
+1739578544393,13,Delete Book,200,,MainThreadGroup 1-100,text,true,,6351,261,1,1,http://192.168.1.107:8080/books,5,0,0
+1739578544393,5,Delete Book-0,302,,MainThreadGroup 1-100,,true,,186,136,1,1,http://192.168.1.107:8080/books/delete/100,5,0,0
+1739578544398,8,Delete Book-1,200,,MainThreadGroup 1-100,text,true,,6165,125,1,1,http://192.168.1.107:8080/books,8,0,0
